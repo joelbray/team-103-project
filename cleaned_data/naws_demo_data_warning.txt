@@ -1,0 +1,7 @@
+* Table 13 illustrates weighted data on farmworkers in California from the Employment and Training Administration's National Agricultural Workers Survey, Public Data, Fiscal Years (FY) 1989-2014.
+a Estimates should be interpreted with caution because they have relative standard errors between 31 and 50 percent.
+b Estimates are suppressed because they are based on fewer than four observations or have relative standard errors greater than 50 percent.
+1 Settled crop workers are employed at locations that are within 75 miles of each other.
+2 Shuttle migrants have a home base where they do not engage in farm work and have one farm work location that is more than 75 miles from the home base. They may hold multiple farm jobs at the farm work location but those jobs are within 75 miles of each other.
+3 Follow-the-crop migrants have at least two farm jobs that are separated by more than 75 miles.
+4 Newcomers are foreign-born crop workers whose first arrival to the United States occurred within the year preceding the interview and whose migration patterns have not yet been established.
