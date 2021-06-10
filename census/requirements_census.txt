@@ -1,5 +1,0 @@
-uszipcode
-numpy
-pandas
-seaborn
-matplotlib
