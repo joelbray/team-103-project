@@ -1,0 +1,4 @@
+* Table 14 illustrates weighted data on farmworkers in California from the Employment and Training Administration's National Agricultural Workers Survey, Public Data, Fiscal Years (FY) 1989-2014.
+**Values greater than 14 for number of hours worked per day were set to missing.
+a Estimates should be interpreted with caution because they have relative standard errors between 31 and 50 percent.
+b Estimates are suppressed because they are based on fewer than four observations or have relative standard errors greater than 50 percent.
