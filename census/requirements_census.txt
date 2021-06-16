@@ -1,6 +1,5 @@
+uszipcode
 numpy
 pandas
 seaborn
 matplotlib
-siuba
-CensusData
