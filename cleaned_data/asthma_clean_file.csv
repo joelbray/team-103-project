@@ -3,7 +3,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,18 and Over,Total Population,18 and Over,151,49.1
 2015,Butte,18 and Over,Total Population,18 and Over,736,43.8
 2015,Calaveras,18 and Over,Total Population,18 and Over,139,42.7
-2015,California,18 and Over,Total Population,18 and Over,117854,40.0
 2015,Colusa,18 and Over,Total Population,18 and Over,49,29.0
 2015,Contra Costa,18 and Over,Total Population,18 and Over,4528,54.8
 2015,Del Norte,18 and Over,Total Population,18 and Over,91,41.9
@@ -58,7 +57,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Yuba,18 and Over,Total Population,18 and Over,215,39.5
 2015,Alameda,18 and Over,Race-Ethnicity,African-American,2930,195.2
 2015,Butte,18 and Over,Race-Ethnicity,African-American,63,219.7
-2015,California,18 and Over,Race-Ethnicity,African-American,25317,144.6
 2015,Contra Costa,18 and Over,Race-Ethnicity,African-American,1474,203.9
 2015,El Dorado,18 and Over,Race-Ethnicity,African-American,14,163.9
 2015,Fresno,18 and Over,Race-Ethnicity,African-American,312,87.8
@@ -96,7 +94,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Yolo,18 and Over,Race-Ethnicity,African-American,42,84.7
 2015,Yuba,18 and Over,Race-Ethnicity,African-American,18,112.9
 2015,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,136,419.1
-2015,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,537,41.5
 2015,Humboldt,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,36,74.6
 2015,Los Angeles,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,42,26.2
 2015,Riverside,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,30,36.9
@@ -109,7 +106,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Tulare,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,14,61.1
 2015,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,617,18.4
 2015,Butte,18 and Over,Race-Ethnicity,Asian/Pacific Islander,12,19.8
-2015,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,6454,15.3
 2015,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,268,21.6
 2015,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,91,16.0
 2015,Kern,18 and Over,Race-Ethnicity,Asian/Pacific Islander,50,17.8
@@ -142,7 +138,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,18 and Over,Race-Ethnicity,Hispanic,13,36.2
 2015,Butte,18 and Over,Race-Ethnicity,Hispanic,64,25.8
 2015,Calaveras,18 and Over,Race-Ethnicity,Hispanic,13,25.2
-2015,California,18 and Over,Race-Ethnicity,Hispanic,37997,36.8
 2015,Colusa,18 and Over,Race-Ethnicity,Hispanic,20,21.1
 2015,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,998,54.5
 2015,El Dorado,18 and Over,Race-Ethnicity,Hispanic,60,38.0
@@ -189,7 +184,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,18 and Over,Race-Ethnicity,White,128,54.8
 2015,Butte,18 and Over,Race-Ethnicity,White,565,46.0
 2015,Calaveras,18 and Over,Race-Ethnicity,White,122,46.2
-2015,California,18 and Over,Race-Ethnicity,White,41407,34.9
 2015,Colusa,18 and Over,Race-Ethnicity,White,23,40.9
 2015,Contra Costa,18 and Over,Race-Ethnicity,White,1497,37.5
 2015,Del Norte,18 and Over,Race-Ethnicity,White,78,61.4
@@ -246,7 +240,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,18 and Over,Sex,Female,113,79.4
 2015,Butte,18 and Over,Sex,Female,439,52.6
 2015,Calaveras,18 and Over,Sex,Female,96,59.4
-2015,California,18 and Over,Sex,Female,73315,49.2
 2015,Colusa,18 and Over,Sex,Female,27,32.7
 2015,Contra Costa,18 and Over,Sex,Female,2852,66.4
 2015,Del Norte,18 and Over,Sex,Female,69,82.4
@@ -303,7 +296,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,18 and Over,Sex,Male,38,26.3
 2015,Butte,18 and Over,Sex,Male,297,34.9
 2015,Calaveras,18 and Over,Sex,Male,43,26.8
-2015,California,18 and Over,Sex,Male,44533,30.5
 2015,Colusa,18 and Over,Sex,Male,22,25.6
 2015,Contra Costa,18 and Over,Sex,Male,1675,42.3
 2015,Del Norte,18 and Over,Sex,Male,22,17.7
@@ -359,7 +351,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,All Ages,Total Population,All Ages,196,58.4
 2015,Butte,All Ages,Total Population,All Ages,1044,50.2
 2015,Calaveras,All Ages,Total Population,All Ages,185,48.0
-2015,California,All Ages,Total Population,All Ages,191904,50.4
 2015,Colusa,All Ages,Total Population,All Ages,97,41.4
 2015,Contra Costa,All Ages,Total Population,All Ages,6858,65.2
 2015,Del Norte,All Ages,Total Population,All Ages,140,53.0
@@ -414,7 +405,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Yolo,All Ages,Total Population,All Ages,852,44.1
 2015,Yuba,All Ages,Total Population,All Ages,346,45.4
 2015,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,185,469.6
-2015,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,765,47.0
 2015,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,13,50.9
 2015,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,11,
 2015,Humboldt,All Ages,Race-Ethnicity,American Indian/Alaskan Native,49,70.4
@@ -433,7 +423,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Tulare,All Ages,Race-Ethnicity,American Indian/Alaskan Native,23,69.3
 2015,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,957,23.0
 2015,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,19,21.1
-2015,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,9676,19.4
 2015,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,401,26.3
 2015,El Dorado,All Ages,Race-Ethnicity,Asian/Pacific Islander,12,18.4
 2015,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,237,25.5
@@ -467,7 +456,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Yuba,All Ages,Race-Ethnicity,Asian/Pacific Islander,14,38.0
 2015,Alameda,All Ages,Race-Ethnicity,African-American,4051,218.5
 2015,Butte,All Ages,Race-Ethnicity,African-American,91,286.6
-2015,California,All Ages,Race-Ethnicity,African-American,38416,177.3
 2015,Contra Costa,All Ages,Race-Ethnicity,African-American,2150,232.7
 2015,Fresno,All Ages,Race-Ethnicity,African-American,775,153.0
 2015,Humboldt,All Ages,Race-Ethnicity,African-American,49,379.6
@@ -509,7 +497,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,All Ages,Race-Ethnicity,Hispanic,24,53.8
 2015,Butte,All Ages,Race-Ethnicity,Hispanic,121,33.5
 2015,Calaveras,All Ages,Race-Ethnicity,Hispanic,21,37.7
-2015,California,All Ages,Race-Ethnicity,Hispanic,77639,48.8
 2015,Colusa,All Ages,Race-Ethnicity,Hispanic,54,34.9
 2015,Contra Costa,All Ages,Race-Ethnicity,Hispanic,1937,68.2
 2015,Del Norte,All Ages,Race-Ethnicity,Hispanic,15,26.1
@@ -562,7 +549,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,All Ages,Race-Ethnicity,White,161,63.8
 2015,Butte,All Ages,Race-Ethnicity,White,764,53.3
 2015,Calaveras,All Ages,Race-Ethnicity,White,156,50.1
-2015,California,All Ages,Race-Ethnicity,White,54967,40.1
 2015,Colusa,All Ages,Race-Ethnicity,White,37,55.1
 2015,Contra Costa,All Ages,Race-Ethnicity,White,1906,40.4
 2015,Del Norte,All Ages,Race-Ethnicity,White,110,72.9
@@ -619,7 +605,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,All Ages,Sex,Female,129,74.5
 2015,Butte,All Ages,Sex,Female,563,53.6
 2015,Calaveras,All Ages,Sex,Female,115,58.4
-2015,California,All Ages,Sex,Female,100117,52.1
 2015,Colusa,All Ages,Sex,Female,41,36.4
 2015,Contra Costa,All Ages,Sex,Female,3758,68.8
 2015,Del Norte,All Ages,Sex,Female,93,83.3
@@ -676,7 +661,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,All Ages,Sex,Male,67,48.3
 2015,Butte,All Ages,Sex,Male,481,46.7
 2015,Calaveras,All Ages,Sex,Male,70,38.0
-2015,California,All Ages,Sex,Male,91780,48.3
 2015,Colusa,All Ages,Sex,Male,56,45.9
 2015,Contra Costa,All Ages,Sex,Male,3099,60.6
 2015,Del Norte,All Ages,Sex,Male,47,35.2
@@ -733,7 +717,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,Under 18,Total Population,Under 18,45,85.1
 2015,Butte,Under 18,Total Population,Under 18,308,68.7
 2015,Calaveras,Under 18,Total Population,Under 18,46,63.0
-2015,California,Under 18,Total Population,Under 18,74050,80.6
 2015,Colusa,Under 18,Total Population,Under 18,48,77.0
 2015,Contra Costa,Under 18,Total Population,Under 18,2330,95.2
 2015,Del Norte,Under 18,Total Population,Under 18,49,85.2
@@ -786,7 +769,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Yuba,Under 18,Total Population,Under 18,131,62.5
 2015,Alameda,Under 18,Race-Ethnicity,African-American,1121,285.7
 2015,Butte,Under 18,Race-Ethnicity,African-American,28,479.5
-2015,California,Under 18,Race-Ethnicity,African-American,13099,271.4
 2015,Contra Costa,Under 18,Race-Ethnicity,African-American,676,315.7
 2015,Fresno,Under 18,Race-Ethnicity,African-American,463,340.7
 2015,Imperial,Under 18,Race-Ethnicity,African-American,17,288.1
@@ -816,13 +798,11 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Yolo,Under 18,Race-Ethnicity,African-American,20,175.0
 2015,Yuba,Under 18,Race-Ethnicity,African-American,11,
 2015,Alameda,Under 18,Race-Ethnicity,American Indian/Alaskan Native,49,615.3
-2015,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,228,62.7
 2015,Humboldt,Under 18,Race-Ethnicity,American Indian/Alaskan Native,13,58.4
 2015,Riverside,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,49.6
 2015,Sacramento,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,87.4
 2015,San Bernardino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,27,164.2
 2015,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,340,36.3
-2015,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,3222,31.3
 2015,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,133,39.9
 2015,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,146,52.7
 2015,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,29,40.0
@@ -849,7 +829,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,Under 18,Race-Ethnicity,Hispanic,24,53.8
 2015,Butte,Under 18,Race-Ethnicity,Hispanic,121,33.5
 2015,Calaveras,Under 18,Race-Ethnicity,Hispanic,21,37.7
-2015,California,Under 18,Race-Ethnicity,Hispanic,39642,83.2
 2015,Colusa,Under 18,Race-Ethnicity,Hispanic,54,34.9
 2015,Contra Costa,Under 18,Race-Ethnicity,Hispanic,1937,68.2
 2015,Del Norte,Under 18,Race-Ethnicity,Hispanic,15,26.1
@@ -902,7 +881,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,Under 18,Race-Ethnicity,White,33,89.7
 2015,Butte,Under 18,Race-Ethnicity,White,199,74.4
 2015,Calaveras,Under 18,Race-Ethnicity,White,34,61.5
-2015,California,Under 18,Race-Ethnicity,White,13560,55.3
 2015,Colusa,Under 18,Race-Ethnicity,White,14,96.1
 2015,Contra Costa,Under 18,Race-Ethnicity,White,409,48.9
 2015,Del Norte,Under 18,Race-Ethnicity,White,32,106.3
@@ -955,7 +933,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,Under 18,Sex,Female,16,60.4
 2015,Butte,Under 18,Sex,Female,124,56.3
 2015,Calaveras,Under 18,Sex,Female,19,55.5
-2015,California,Under 18,Sex,Female,26802,60.2
 2015,Colusa,Under 18,Sex,Female,14,47.0
 2015,Contra Costa,Under 18,Sex,Female,906,75.6
 2015,Del Norte,Under 18,Sex,Female,24,86.0
@@ -1007,7 +984,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2015,Amador,Under 18,Sex,Male,29,111.9
 2015,Butte,Under 18,Sex,Male,184,80.6
 2015,Calaveras,Under 18,Sex,Male,27,70.4
-2015,California,Under 18,Sex,Male,47247,99.7
 2015,Colusa,Under 18,Sex,Male,34,104.4
 2015,Contra Costa,Under 18,Sex,Male,1424,113.5
 2015,Del Norte,Under 18,Sex,Male,25,85.5
@@ -1061,7 +1037,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,18 and Over,Total Population,18 and Over,181,58.7
 2014,Butte,18 and Over,Total Population,18 and Over,680,40.5
 2014,Calaveras,18 and Over,Total Population,18 and Over,140,44.0
-2014,California,18 and Over,Total Population,18 and Over,113063,38.6
 2014,Colusa,18 and Over,Total Population,18 and Over,53,31.6
 2014,Contra Costa,18 and Over,Total Population,18 and Over,4423,53.6
 2014,Del Norte,18 and Over,Total Population,18 and Over,84,38.4
@@ -1116,7 +1091,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Yolo,18 and Over,Total Population,18 and Over,238,44.4
 2014,Alameda,18 and Over,Race-Ethnicity,African-American,2943,195.4
 2014,Butte,18 and Over,Race-Ethnicity,African-American,37,134.1
-2014,California,18 and Over,Race-Ethnicity,African-American,24494,139.9
 2014,Contra Costa,18 and Over,Race-Ethnicity,African-American,1414,197.2
 2014,El Dorado,18 and Over,Race-Ethnicity,African-American,14,133.9
 2014,Fresno,18 and Over,Race-Ethnicity,African-American,325,91.5
@@ -1154,7 +1128,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Yolo,18 and Over,Race-Ethnicity,African-American,60,114.4
 2014,Yuba,18 and Over,Race-Ethnicity,African-American,28,168.1
 2014,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,99,303.4
-2014,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,488,38.2
 2014,Contra Costa,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,17,68.8
 2014,Fresno,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,18,44.0
 2014,Humboldt,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,23,43.7
@@ -1172,7 +1145,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Tulare,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,12,49.6
 2014,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,524,15.7
 2014,Butte,18 and Over,Race-Ethnicity,Asian/Pacific Islander,15,18.7
-2014,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,5840,14.2
 2014,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,241,19.2
 2014,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,71,12.3
 2014,Humboldt,18 and Over,Race-Ethnicity,Asian/Pacific Islander,19,93.4
@@ -1205,7 +1177,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,18 and Over,Race-Ethnicity,Hispanic,1657,32.7
 2014,Butte,18 and Over,Race-Ethnicity,Hispanic,5008,63.1
 2014,Calaveras,18 and Over,Race-Ethnicity,Hispanic,4914,65.2
-2014,California,18 and Over,Race-Ethnicity,Hispanic,35121,35.2
 2014,Colusa,18 and Over,Race-Ethnicity,Hispanic,181,58.7
 2014,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,227,64.4
 2014,Fresno,18 and Over,Race-Ethnicity,Hispanic,167,71.2
@@ -1255,7 +1226,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,18 and Over,Race-Ethnicity,White,167,71.2
 2014,Butte,18 and Over,Race-Ethnicity,White,547,44.6
 2014,Calaveras,18 and Over,Race-Ethnicity,White,126,48.2
-2014,California,18 and Over,Race-Ethnicity,White,41147,34.3
 2014,Colusa,18 and Over,Race-Ethnicity,White,29,41.7
 2014,Contra Costa,18 and Over,Race-Ethnicity,White,1551,37.5
 2014,Del Norte,18 and Over,Race-Ethnicity,White,73,56.6
@@ -1312,7 +1282,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,18 and Over,Sex,Female,117,91.6
 2014,Butte,18 and Over,Sex,Female,408,49.1
 2014,Calaveras,18 and Over,Sex,Female,96,61.4
-2014,California,18 and Over,Sex,Female,70772,47.9
 2014,Colusa,18 and Over,Sex,Female,34,42.9
 2014,Contra Costa,18 and Over,Sex,Female,2840,66.4
 2014,Del Norte,18 and Over,Sex,Female,61,75.1
@@ -1369,7 +1338,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,18 and Over,Sex,Male,64,35.9
 2014,Butte,18 and Over,Sex,Male,272,32.1
 2014,Calaveras,18 and Over,Sex,Male,44,27.3
-2014,California,18 and Over,Sex,Male,42290,29.1
 2014,Colusa,18 and Over,Sex,Male,19,21.2
 2014,Contra Costa,18 and Over,Sex,Male,1583,39.7
 2014,Del Norte,18 and Over,Sex,Male,23,17.0
@@ -1426,7 +1394,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,All Ages,Total Population,All Ages,227,64.4
 2014,Butte,All Ages,Total Population,All Ages,978,47.2
 2014,Calaveras,All Ages,Total Population,All Ages,206,55.1
-2014,California,All Ages,Total Population,All Ages,186944,49.5
 2014,Colusa,All Ages,Total Population,All Ages,92,39.9
 2014,Contra Costa,All Ages,Total Population,All Ages,6794,64.6
 2014,Del Norte,All Ages,Total Population,All Ages,130,49.5
@@ -1482,7 +1449,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Yuba,All Ages,Total Population,All Ages,323,43.4
 2014,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,148,383.3
 2014,Butte,All Ages,Race-Ethnicity,American Indian/Alaskan Native,11,
-2014,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,711,44.2
 2014,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,25,88.8
 2014,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,24,41.9
 2014,Humboldt,All Ages,Race-Ethnicity,American Indian/Alaskan Native,32,42.9
@@ -1502,7 +1468,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Tulare,All Ages,Race-Ethnicity,American Indian/Alaskan Native,14,41.6
 2014,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,841,20.5
 2014,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,17,15.6
-2014,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,8973,18.5
 2014,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,381,25.3
 2014,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,201,21.5
 2014,Humboldt,All Ages,Race-Ethnicity,Asian/Pacific Islander,22,79.1
@@ -1535,7 +1500,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Yuba,All Ages,Race-Ethnicity,Asian/Pacific Islander,11,
 2014,Alameda,All Ages,Race-Ethnicity,African-American,4206,227.6
 2014,Butte,All Ages,Race-Ethnicity,African-American,65,215.6
-2014,California,All Ages,Race-Ethnicity,African-American,38041,175.7
 2014,Contra Costa,All Ages,Race-Ethnicity,African-American,2146,233.0
 2014,El Dorado,All Ages,Race-Ethnicity,African-American,21,161.6
 2014,Fresno,All Ages,Race-Ethnicity,African-American,835,165.1
@@ -1577,7 +1541,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,All Ages,Race-Ethnicity,Hispanic,12,26.9
 2014,Butte,All Ages,Race-Ethnicity,Hispanic,106,30.0
 2014,Calaveras,All Ages,Race-Ethnicity,Hispanic,17,30.4
-2014,California,All Ages,Race-Ethnicity,Hispanic,74034,47.3
 2014,Colusa,All Ages,Race-Ethnicity,Hispanic,47,33.5
 2014,Contra Costa,All Ages,Race-Ethnicity,Hispanic,1834,65.1
 2014,Del Norte,All Ages,Race-Ethnicity,Hispanic,11,
@@ -1629,7 +1592,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,All Ages,Race-Ethnicity,White,206,78.2
 2014,Butte,All Ages,Race-Ethnicity,White,740,51.7
 2014,Calaveras,All Ages,Race-Ethnicity,White,182,61.4
-2014,California,All Ages,Race-Ethnicity,White,55019,40.0
 2014,Colusa,All Ages,Race-Ethnicity,White,40,50.4
 2014,Contra Costa,All Ages,Race-Ethnicity,White,1910,38.6
 2014,Del Norte,All Ages,Race-Ethnicity,White,107,71.1
@@ -1686,7 +1648,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,All Ages,Sex,Female,137,86.1
 2014,Butte,All Ages,Sex,Female,529,50.6
 2014,Calaveras,All Ages,Sex,Female,122,63.4
-2014,California,All Ages,Sex,Female,97777,51.2
 2014,Colusa,All Ages,Sex,Female,46,42.2
 2014,Contra Costa,All Ages,Sex,Female,3779,69.3
 2014,Del Norte,All Ages,Sex,Female,82,76.0
@@ -1743,7 +1704,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,All Ages,Sex,Male,90,49.7
 2014,Butte,All Ages,Sex,Male,449,43.8
 2014,Calaveras,All Ages,Sex,Male,84,46.8
-2014,California,All Ages,Sex,Male,89166,47.3
 2014,Colusa,All Ages,Sex,Male,46,37.5
 2014,Contra Costa,All Ages,Sex,Male,3015,58.8
 2014,Del Norte,All Ages,Sex,Male,48,34.9
@@ -1800,7 +1760,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,Under 18,Total Population,Under 18,46,81.1
 2014,Butte,Under 18,Total Population,Under 18,298,66.3
 2014,Calaveras,Under 18,Total Population,Under 18,66,87.3
-2014,California,Under 18,Total Population,Under 18,73881,80.7
 2014,Colusa,Under 18,Total Population,Under 18,39,63.7
 2014,Contra Costa,Under 18,Total Population,Under 18,2371,96.1
 2014,Del Norte,Under 18,Total Population,Under 18,46,81.4
@@ -1854,7 +1813,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Yuba,Under 18,Total Population,Under 18,85,40.6
 2014,Alameda,Under 18,Race-Ethnicity,African-American,1263,320.2
 2014,Butte,Under 18,Race-Ethnicity,African-American,28,450.3
-2014,California,Under 18,Race-Ethnicity,African-American,13547,278.8
 2014,Contra Costa,Under 18,Race-Ethnicity,African-American,732,336.0
 2014,Humboldt,Under 18,Race-Ethnicity,African-American,510,377.0
 2014,Imperial,Under 18,Race-Ethnicity,African-American,11,
@@ -1883,13 +1841,11 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Ventura,Under 18,Race-Ethnicity,African-American,56,237.5
 2014,Yolo,Under 18,Race-Ethnicity,African-American,29,250.1
 2014,Alameda,Under 18,Race-Ethnicity,American Indian/Alaskan Native,49,613.7
-2014,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,223,61.6
 2014,Los Angeles,Under 18,Race-Ethnicity,American Indian/Alaskan Native,17,49.8
 2014,Mendocino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,19,208.0
 2014,Riverside,Under 18,Race-Ethnicity,American Indian/Alaskan Native,13,46.9
 2014,Sacramento,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,88.0
 2014,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,317,34.5
-2014,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,3133,31.0
 2014,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,140,42.7
 2014,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,130,47.9
 2014,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,25,34.0
@@ -1914,7 +1870,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Ventura,Under 18,Race-Ethnicity,Asian/Pacific Islander,32,28.5
 2014,Alameda,Under 18,Race-Ethnicity,Hispanic,1177,103.3
 2014,Butte,Under 18,Race-Ethnicity,Hispanic,59,58.8
-2014,California,Under 18,Race-Ethnicity,Hispanic,38913,81.9
 2014,Colusa,Under 18,Race-Ethnicity,Hispanic,26,58.5
 2014,Contra Costa,Under 18,Race-Ethnicity,Hispanic,926,105.5
 2014,El Dorado,Under 18,Race-Ethnicity,Hispanic,36,45.2
@@ -1962,7 +1917,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,Under 18,Race-Ethnicity,White,39,98.3
 2014,Butte,Under 18,Race-Ethnicity,White,193,72.1
 2014,Calaveras,Under 18,Race-Ethnicity,White,56,99.4
-2014,California,Under 18,Race-Ethnicity,White,13872,56.5
 2014,Colusa,Under 18,Race-Ethnicity,White,11,
 2014,Contra Costa,Under 18,Race-Ethnicity,White,359,41.9
 2014,Del Norte,Under 18,Race-Ethnicity,White,34,112.9
@@ -2016,7 +1970,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,Under 18,Sex,Female,20,70.2
 2014,Butte,Under 18,Sex,Female,121,54.9
 2014,Calaveras,Under 18,Sex,Female,26,69.4
-2014,California,Under 18,Sex,Female,27005,60.7
 2014,Colusa,Under 18,Sex,Female,12,40.2
 2014,Contra Costa,Under 18,Sex,Female,939,77.4
 2014,Del Norte,Under 18,Sex,Female,21,78.6
@@ -2067,7 +2020,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2014,Amador,Under 18,Sex,Male,26,89.2
 2014,Butte,Under 18,Sex,Male,177,77.4
 2014,Calaveras,Under 18,Sex,Male,40,103.2
-2014,California,Under 18,Sex,Male,46876,99.5
 2014,Colusa,Under 18,Sex,Male,27,84.5
 2014,Contra Costa,Under 18,Sex,Male,1432,113.7
 2014,Del Norte,Under 18,Sex,Male,25,86.5
@@ -2120,7 +2072,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,18 and Over,Total Population,18 and Over,203,74.0
 2013,Butte,18 and Over,Total Population,18 and Over,695,41.6
 2013,Calaveras,18 and Over,Total Population,18 and Over,162,50.0
-2013,California,18 and Over,Total Population,18 and Over,113107,38.8
 2013,Colusa,18 and Over,Total Population,18 and Over,41,27.5
 2013,Contra Costa,18 and Over,Total Population,18 and Over,4691,57.2
 2013,Del Norte,18 and Over,Total Population,18 and Over,91,40.8
@@ -2175,7 +2126,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Yuba,18 and Over,Total Population,18 and Over,241,44.8
 2013,Alameda,18 and Over,Race-Ethnicity,African-American,3150,213.2
 2013,Butte,18 and Over,Race-Ethnicity,African-American,41,151.5
-2013,California,18 and Over,Race-Ethnicity,African-American,24473,140.5
 2013,Contra Costa,18 and Over,Race-Ethnicity,African-American,1429,198.2
 2013,Fresno,18 and Over,Race-Ethnicity,African-American,313,90.6
 2013,Humboldt,18 and Over,Race-Ethnicity,African-American,43,324.5
@@ -2213,7 +2163,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Yolo,18 and Over,Race-Ethnicity,African-American,40,92.0
 2013,Yuba,18 and Over,Race-Ethnicity,African-American,28,164.5
 2013,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,21,70.7
-2013,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,389,30.0
 2013,Humboldt,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,34,71.6
 2013,Los Angeles,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,51,30.7
 2013,Mendocino,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,24,99.8
@@ -2226,7 +2175,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Solano,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,11,
 2013,Sonoma,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,20,68.8
 2013,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,562,16.8
-2013,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,5841,14.2
 2013,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,278,21.9
 2013,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,81,15.1
 2013,Kern,18 and Over,Race-Ethnicity,Asian/Pacific Islander,37,15.1
@@ -2256,7 +2204,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Yolo,18 and Over,Race-Ethnicity,Asian/Pacific Islander,15,8.0
 2013,Alameda,18 and Over,Race-Ethnicity,Hispanic,969,39.5
 2013,Butte,18 and Over,Race-Ethnicity,Hispanic,72,31.5
-2013,California,18 and Over,Race-Ethnicity,Hispanic,34320,34.7
 2013,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,994,56.5
 2013,El Dorado,18 and Over,Race-Ethnicity,Hispanic,39,24.6
 2013,Fresno,18 and Over,Race-Ethnicity,Hispanic,1532,48.9
@@ -2301,7 +2248,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,18 and Over,Race-Ethnicity,White,190,94.5
 2013,Butte,18 and Over,Race-Ethnicity,White,531,42.5
 2013,Calaveras,18 and Over,Race-Ethnicity,White,147,55.5
-2013,California,18 and Over,Race-Ethnicity,White,42781,35.7
 2013,Colusa,18 and Over,Race-Ethnicity,White,32,57.9
 2013,Contra Costa,18 and Over,Race-Ethnicity,White,1673,41.8
 2013,Del Norte,18 and Over,Race-Ethnicity,White,69,53.8
@@ -2358,7 +2304,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,18 and Over,Sex,Female,132,117.5
 2013,Butte,18 and Over,Sex,Female,422,51.2
 2013,Calaveras,18 and Over,Sex,Female,107,66.6
-2013,California,18 and Over,Sex,Female,71795,48.7
 2013,Colusa,18 and Over,Sex,Female,33,44.2
 2013,Contra Costa,18 and Over,Sex,Female,3022,71.4
 2013,Del Norte,18 and Over,Sex,Female,51,55.8
@@ -2415,7 +2360,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,18 and Over,Sex,Male,71,44.3
 2013,Butte,18 and Over,Sex,Male,273,31.8
 2013,Calaveras,18 and Over,Sex,Male,55,33.1
-2013,California,18 and Over,Sex,Male,41312,28.6
 2013,Contra Costa,18 and Over,Sex,Male,1669,42.2
 2013,Del Norte,18 and Over,Sex,Male,40,30.8
 2013,El Dorado,18 and Over,Sex,Male,134,19.9
@@ -2468,7 +2412,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,All Ages,Total Population,All Ages,255,78.6
 2013,Butte,All Ages,Total Population,All Ages,970,46.7
 2013,Calaveras,All Ages,Total Population,All Ages,222,57.4
-2013,California,All Ages,Total Population,All Ages,183949,48.7
 2013,Colusa,All Ages,Total Population,All Ages,79,36.5
 2013,Contra Costa,All Ages,Total Population,All Ages,6942,66.1
 2013,Del Norte,All Ages,Total Population,All Ages,139,52.2
@@ -2523,7 +2466,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Yolo,All Ages,Total Population,All Ages,754,38.4
 2013,Yuba,All Ages,Total Population,All Ages,338,45.3
 2013,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,28,78.7
-2013,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,565,34.8
 2013,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,18,64.8
 2013,Del Norte,All Ages,Race-Ethnicity,American Indian/Alaskan Native,11,
 2013,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,11,
@@ -2546,7 +2488,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Tulare,All Ages,Race-Ethnicity,American Indian/Alaskan Native,20,62.6
 2013,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,875,21.2
 2013,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,19,17.4
-2013,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,8748,17.9
 2013,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,409,26.5
 2013,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,202,22.7
 2013,Humboldt,All Ages,Race-Ethnicity,Asian/Pacific Islander,11,
@@ -2578,7 +2519,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Yuba,All Ages,Race-Ethnicity,Asian/Pacific Islander,13,29.9
 2013,Alameda,All Ages,Race-Ethnicity,African-American,4239,229.4
 2013,Butte,All Ages,Race-Ethnicity,African-American,60,192.1
-2013,California,All Ages,Race-Ethnicity,African-American,37182,171.7
 2013,Contra Costa,All Ages,Race-Ethnicity,African-American,2088,225.4
 2013,El Dorado,All Ages,Race-Ethnicity,African-American,13,97.1
 2013,Fresno,All Ages,Race-Ethnicity,African-American,675,136.0
@@ -2621,7 +2561,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,All Ages,Race-Ethnicity,Hispanic,12,25.9
 2013,Butte,All Ages,Race-Ethnicity,Hispanic,119,35.3
 2013,Calaveras,All Ages,Race-Ethnicity,Hispanic,12,27.2
-2013,California,All Ages,Race-Ethnicity,Hispanic,71374,45.9
 2013,Colusa,All Ages,Race-Ethnicity,Hispanic,28,17.4
 2013,Contra Costa,All Ages,Race-Ethnicity,Hispanic,1816,66.1
 2013,Del Norte,All Ages,Race-Ethnicity,Hispanic,21,37.5
@@ -2673,7 +2612,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,All Ages,Race-Ethnicity,White,237,100.9
 2013,Butte,All Ages,Race-Ethnicity,White,727,50.5
 2013,Calaveras,All Ages,Race-Ethnicity,White,198,63.8
-2013,California,All Ages,Race-Ethnicity,White,56693,41.1
 2013,Colusa,All Ages,Race-Ethnicity,White,48,71.8
 2013,Contra Costa,All Ages,Race-Ethnicity,White,2092,43.7
 2013,Del Norte,All Ages,Race-Ethnicity,White,100,66.5
@@ -2730,7 +2668,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,All Ages,Sex,Female,153,106.0
 2013,Butte,All Ages,Sex,Female,537,51.5
 2013,Calaveras,All Ages,Sex,Female,128,64.6
-2013,California,All Ages,Sex,Female,97408,51.0
 2013,Colusa,All Ages,Sex,Female,44,42.7
 2013,Contra Costa,All Ages,Sex,Female,3872,71.1
 2013,Del Norte,All Ages,Sex,Female,78,66.6
@@ -2788,7 +2725,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,All Ages,Sex,Male,102,62.0
 2013,Butte,All Ages,Sex,Male,433,41.7
 2013,Calaveras,All Ages,Sex,Male,94,49.8
-2013,California,All Ages,Sex,Male,86540,45.9
 2013,Colusa,All Ages,Sex,Male,35,30.3
 2013,Contra Costa,All Ages,Sex,Male,3070,60.0
 2013,Del Norte,All Ages,Sex,Male,61,41.8
@@ -2845,7 +2781,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,Under 18,Total Population,Under 18,52,91.9
 2013,Butte,Under 18,Total Population,Under 18,275,61.5
 2013,Calaveras,Under 18,Total Population,Under 18,60,78.7
-2013,California,Under 18,Total Population,Under 18,70842,77.3
 2013,Colusa,Under 18,Total Population,Under 18,38,62.5
 2013,Contra Costa,Under 18,Total Population,Under 18,2251,91.5
 2013,Del Norte,Under 18,Total Population,Under 18,48,85.1
@@ -2897,7 +2832,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Yuba,Under 18,Total Population,Under 18,97,46.7
 2013,Alameda,Under 18,Race-Ethnicity,African-American,1089,276.1
 2013,Butte,Under 18,Race-Ethnicity,African-American,19,308.9
-2013,California,Under 18,Race-Ethnicity,African-American,12709,261.5
 2013,Contra Costa,Under 18,Race-Ethnicity,African-American,659,303.8
 2013,Fresno,Under 18,Race-Ethnicity,African-American,362,266.7
 2013,Imperial,Under 18,Race-Ethnicity,African-American,16,281.4
@@ -2926,14 +2860,12 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Tulare,Under 18,Race-Ethnicity,African-American,33,253.0
 2013,Ventura,Under 18,Race-Ethnicity,African-American,53,227.4
 2013,Yolo,Under 18,Race-Ethnicity,African-American,14,122.2
-2013,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,176,48.6
 2013,Humboldt,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,55.4
 2013,Los Angeles,Under 18,Race-Ethnicity,American Indian/Alaskan Native,19,54.7
 2013,Mendocino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,126.0
 2013,San Diego,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,
 2013,Tulare,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,
 2013,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,313,34.0
-2013,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,2907,28.7
 2013,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,131,39.5
 2013,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,121,44.4
 2013,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,26,35.6
@@ -2957,7 +2889,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Yolo,Under 18,Race-Ethnicity,Asian/Pacific Islander,12,31.6
 2013,Alameda,Under 18,Race-Ethnicity,Hispanic,1060,93.3
 2013,Butte,Under 18,Race-Ethnicity,Hispanic,47,46.5
-2013,California,Under 18,Race-Ethnicity,Hispanic,37054,77.9
 2013,Colusa,Under 18,Race-Ethnicity,Hispanic,21,48.2
 2013,Contra Costa,Under 18,Race-Ethnicity,Hispanic,822,93.7
 2013,Del Norte,Under 18,Race-Ethnicity,Hispanic,12,87.5
@@ -3004,7 +2935,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,Under 18,Race-Ethnicity,White,47,119.4
 2013,Butte,Under 18,Race-Ethnicity,White,196,73.4
 2013,Calaveras,Under 18,Race-Ethnicity,White,51,87.9
-2013,California,Under 18,Race-Ethnicity,White,13912,56.6
 2013,Colusa,Under 18,Race-Ethnicity,White,16,111.8
 2013,Contra Costa,Under 18,Race-Ethnicity,White,419,49.2
 2013,Del Norte,Under 18,Race-Ethnicity,White,31,102.9
@@ -3058,7 +2988,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,Under 18,Sex,Female,21,73.0
 2013,Butte,Under 18,Sex,Female,115,52.3
 2013,Calaveras,Under 18,Sex,Female,21,58.9
-2013,California,Under 18,Sex,Female,25613,57.6
 2013,Colusa,Under 18,Sex,Female,11,
 2013,Contra Costa,Under 18,Sex,Female,850,70.1
 2013,Del Norte,Under 18,Sex,Female,27,98.0
@@ -3110,7 +3039,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2013,Amador,Under 18,Sex,Male,31,112.9
 2013,Butte,Under 18,Sex,Male,160,70.1
 2013,Calaveras,Under 18,Sex,Male,39,98.0
-2013,California,Under 18,Sex,Male,45228,95.8
 2013,Colusa,Under 18,Sex,Male,27,84.3
 2013,Contra Costa,Under 18,Sex,Male,1401,111.4
 2013,Del Norte,Under 18,Sex,Male,21,73.5
@@ -3163,7 +3091,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,18 and Over,Total Population,18 and Over,214,81.9
 2012,Butte,18 and Over,Total Population,18 and Over,698,42.6
 2012,Calaveras,18 and Over,Total Population,18 and Over,137,42.5
-2012,California,18 and Over,Total Population,18 and Over,113149,39.6
 2012,Colusa,18 and Over,Total Population,18 and Over,52,33.8
 2012,Contra Costa,18 and Over,Total Population,18 and Over,5317,66.3
 2012,Del Norte,18 and Over,Total Population,18 and Over,92,38.8
@@ -3218,7 +3145,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Yuba,18 and Over,Total Population,18 and Over,220,42.0
 2012,Alameda,18 and Over,Race-Ethnicity,African-American,3344,228.8
 2012,Butte,18 and Over,Race-Ethnicity,African-American,35,135.4
-2012,California,18 and Over,Race-Ethnicity,African-American,25073,145.4
 2012,Contra Costa,18 and Over,Race-Ethnicity,African-American,1693,234.5
 2012,Del Norte,18 and Over,Race-Ethnicity,African-American,30,298.5
 2012,Fresno,18 and Over,Race-Ethnicity,African-American,372,107.6
@@ -3254,7 +3180,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Yolo,18 and Over,Race-Ethnicity,African-American,42,99.8
 2012,Yuba,18 and Over,Race-Ethnicity,African-American,26,143.5
 2012,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,19,62.5
-2012,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,403,32.1
 2012,Contra Costa,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,20,73.2
 2012,Humboldt,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,37,78.5
 2012,Los Angeles,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,45,27.9
@@ -3267,7 +3192,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,San Mateo,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,15,185.8
 2012,Shasta,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,13,39.3
 2012,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,574,18.2
-2012,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,5571,14.0
 2012,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,258,21.8
 2012,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,67,12.9
 2012,Humboldt,18 and Over,Race-Ethnicity,Asian/Pacific Islander,11,
@@ -3296,7 +3220,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Yolo,18 and Over,Race-Ethnicity,Asian/Pacific Islander,40,25.2
 2012,Alameda,18 and Over,Race-Ethnicity,Hispanic,919,39.3
 2012,Butte,18 and Over,Race-Ethnicity,Hispanic,62,24.8
-2012,California,18 and Over,Race-Ethnicity,Hispanic,33176,35.2
 2012,Colusa,18 and Over,Race-Ethnicity,Hispanic,17,33.1
 2012,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,1132,63.2
 2012,El Dorado,18 and Over,Race-Ethnicity,Hispanic,25,17.7
@@ -3343,7 +3266,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,18 and Over,Race-Ethnicity,White,202,105.4
 2012,Butte,18 and Over,Race-Ethnicity,White,565,45.9
 2012,Calaveras,18 and Over,Race-Ethnicity,White,126,47.3
-2012,California,18 and Over,Race-Ethnicity,White,43905,36.6
 2012,Colusa,18 and Over,Race-Ethnicity,White,28,39.8
 2012,Contra Costa,18 and Over,Race-Ethnicity,White,1843,46.8
 2012,Del Norte,18 and Over,Race-Ethnicity,White,56,40.8
@@ -3399,7 +3321,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,18 and Over,Sex,Female,128,116.9
 2012,Butte,18 and Over,Sex,Female,439,54.7
 2012,Calaveras,18 and Over,Sex,Female,86,52.7
-2012,California,18 and Over,Sex,Female,71141,49.2
 2012,Colusa,18 and Over,Sex,Female,36,45.7
 2012,Contra Costa,18 and Over,Sex,Female,3296,79.0
 2012,Del Norte,18 and Over,Sex,Female,70,68.5
@@ -3455,7 +3376,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,18 and Over,Sex,Male,86,59.8
 2012,Butte,18 and Over,Sex,Male,259,30.4
 2012,Calaveras,18 and Over,Sex,Male,51,32.4
-2012,California,18 and Over,Sex,Male,42005,29.7
 2012,Colusa,18 and Over,Sex,Male,16,22.8
 2012,Contra Costa,18 and Over,Sex,Male,2020,52.8
 2012,Del Norte,18 and Over,Sex,Male,22,17.6
@@ -3509,7 +3429,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,All Ages,Total Population,All Ages,264,83.5
 2012,Butte,All Ages,Total Population,All Ages,950,45.7
 2012,Calaveras,All Ages,Total Population,All Ages,173,43.5
-2012,California,All Ages,Total Population,All Ages,185831,49.8
 2012,Colusa,All Ages,Total Population,All Ages,81,37.3
 2012,Contra Costa,All Ages,Total Population,All Ages,7940,76.0
 2012,Del Norte,All Ages,Total Population,All Ages,140,49.8
@@ -3563,7 +3482,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Yolo,All Ages,Total Population,All Ages,797,41.9
 2012,Yuba,All Ages,Total Population,All Ages,284,39.1
 2012,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,24,62.5
-2012,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,537,33.5
 2012,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,25,78.3
 2012,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,11,
 2012,Humboldt,All Ages,Race-Ethnicity,American Indian/Alaskan Native,50,74.8
@@ -3580,7 +3498,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Sonoma,All Ages,Race-Ethnicity,American Indian/Alaskan Native,12,33.6
 2012,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,862,21.7
 2012,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,13,13.6
-2012,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,8634,18.4
 2012,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,394,26.8
 2012,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,169,19.9
 2012,Humboldt,All Ages,Race-Ethnicity,Asian/Pacific Islander,16,45.6
@@ -3614,7 +3531,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Yolo,All Ages,Race-Ethnicity,Asian/Pacific Islander,49,25.1
 2012,Alameda,All Ages,Race-Ethnicity,African-American,4294,231.1
 2012,Butte,All Ages,Race-Ethnicity,African-American,57,185.6
-2012,California,All Ages,Race-Ethnicity,African-American,38295,176.9
 2012,Contra Costa,All Ages,Race-Ethnicity,African-American,2422,256.8
 2012,Del Norte,All Ages,Race-Ethnicity,African-American,30,221.6
 2012,El Dorado,All Ages,Race-Ethnicity,African-American,18,171.5
@@ -3657,7 +3573,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Alameda,All Ages,Race-Ethnicity,Hispanic,1825,49.6
 2012,Amador,All Ages,Race-Ethnicity,Hispanic,13,29.7
 2012,Butte,All Ages,Race-Ethnicity,Hispanic,98,26.7
-2012,California,All Ages,Race-Ethnicity,Hispanic,70205,46.2
 2012,Colusa,All Ages,Race-Ethnicity,Hispanic,35,35.1
 2012,Contra Costa,All Ages,Race-Ethnicity,Hispanic,2106,75.2
 2012,Del Norte,All Ages,Race-Ethnicity,Hispanic,13,24.0
@@ -3708,7 +3623,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,All Ages,Race-Ethnicity,White,246,106.8
 2012,Butte,All Ages,Race-Ethnicity,White,744,51.2
 2012,Calaveras,All Ages,Race-Ethnicity,White,156,48.6
-2012,California,All Ages,Race-Ethnicity,White,58921,42.9
 2012,Colusa,All Ages,Race-Ethnicity,White,34,40.4
 2012,Contra Costa,All Ages,Race-Ethnicity,White,2358,49.8
 2012,Del Norte,All Ages,Race-Ethnicity,White,89,57.5
@@ -3765,7 +3679,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,All Ages,Sex,Female,142,99.4
 2012,Butte,All Ages,Sex,Female,542,52.3
 2012,Calaveras,All Ages,Sex,Female,98,46.5
-2012,California,All Ages,Sex,Female,97120,51.5
 2012,Colusa,All Ages,Sex,Female,50,46.4
 2012,Contra Costa,All Ages,Sex,Female,4300,79.5
 2012,Del Norte,All Ages,Sex,Female,85,64.3
@@ -3822,7 +3735,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,All Ages,Sex,Male,122,77.5
 2012,Butte,All Ages,Sex,Male,408,39.0
 2012,Calaveras,All Ages,Sex,Male,75,40.1
-2012,California,All Ages,Sex,Male,88708,47.7
 2012,Colusa,All Ages,Sex,Male,31,29.0
 2012,Contra Costa,All Ages,Sex,Male,3639,71.7
 2012,Del Norte,All Ages,Sex,Male,55,41.3
@@ -3879,7 +3791,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,Under 18,Total Population,Under 18,50,88.0
 2012,Butte,Under 18,Total Population,Under 18,252,54.8
 2012,Calaveras,Under 18,Total Population,Under 18,36,46.5
-2012,California,Under 18,Total Population,Under 18,72682,79.4
 2012,Colusa,Under 18,Total Population,Under 18,29,47.5
 2012,Contra Costa,Under 18,Total Population,Under 18,2623,104.1
 2012,Del Norte,Under 18,Total Population,Under 18,48,81.4
@@ -3932,7 +3843,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Yuba,Under 18,Total Population,Under 18,64,30.6
 2012,Alameda,Under 18,Race-Ethnicity,African-American,950,237.7
 2012,Butte,Under 18,Race-Ethnicity,African-American,22,330.2
-2012,California,Under 18,Race-Ethnicity,African-American,13222,267.7
 2012,Contra Costa,Under 18,Race-Ethnicity,African-American,729,320.9
 2012,El Dorado,Under 18,Race-Ethnicity,African-American,13,530.6
 2012,Fresno,Under 18,Race-Ethnicity,African-American,390,288.9
@@ -3964,12 +3874,10 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Tulare,Under 18,Race-Ethnicity,African-American,30,220.8
 2012,Ventura,Under 18,Race-Ethnicity,African-American,51,209.7
 2012,Yolo,Under 18,Race-Ethnicity,African-American,33,292.0
-2012,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,134,37.5
 2012,Humboldt,Under 18,Race-Ethnicity,American Indian/Alaskan Native,13,64.0
 2012,Los Angeles,Under 18,Race-Ethnicity,American Indian/Alaskan Native,16,45.8
 2012,Sacramento,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,
 2012,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,288,31.9
-2012,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,3063,31.0
 2012,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,136,41.1
 2012,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,102,40.2
 2012,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,23,31.2
@@ -3993,7 +3901,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Ventura,Under 18,Race-Ethnicity,Asian/Pacific Islander,33,28.8
 2012,Alameda,Under 18,Race-Ethnicity,Hispanic,906,79.2
 2012,Butte,Under 18,Race-Ethnicity,Hispanic,36,32.1
-2012,California,Under 18,Race-Ethnicity,Hispanic,37029,78.0
 2012,Colusa,Under 18,Race-Ethnicity,Hispanic,18,41.0
 2012,Contra Costa,Under 18,Race-Ethnicity,Hispanic,974,109.9
 2012,El Dorado,Under 18,Race-Ethnicity,Hispanic,33,41.8
@@ -4040,7 +3947,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,Under 18,Race-Ethnicity,White,44,111.0
 2012,Butte,Under 18,Race-Ethnicity,White,179,66.4
 2012,Calaveras,Under 18,Race-Ethnicity,White,30,52.1
-2012,California,Under 18,Race-Ethnicity,White,15016,60.9
 2012,Contra Costa,Under 18,Race-Ethnicity,White,515,58.5
 2012,Del Norte,Under 18,Race-Ethnicity,White,33,105.4
 2012,El Dorado,Under 18,Race-Ethnicity,White,117,44.3
@@ -4094,7 +4000,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,Under 18,Sex,Female,14,48.9
 2012,Butte,Under 18,Sex,Female,103,45.5
 2012,Calaveras,Under 18,Sex,Female,12,28.9
-2012,California,Under 18,Sex,Female,25979,58.2
 2012,Colusa,Under 18,Sex,Female,14,48.4
 2012,Contra Costa,Under 18,Sex,Female,1004,81.1
 2012,Del Norte,Under 18,Sex,Female,15,52.1
@@ -4144,7 +4049,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2012,Amador,Under 18,Sex,Male,36,128.7
 2012,Butte,Under 18,Sex,Male,149,63.8
 2012,Calaveras,Under 18,Sex,Male,24,62.1
-2012,California,Under 18,Sex,Male,46703,99.7
 2012,Colusa,Under 18,Sex,Male,15,46.9
 2012,Contra Costa,Under 18,Sex,Male,1619,126.0
 2012,Del Norte,Under 18,Sex,Male,33,109.6
@@ -4198,7 +4102,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,18 and Over,Total Population,18 and Over,162,58.1
 2011,Butte,18 and Over,Total Population,18 and Over,807,49.9
 2011,Calaveras,18 and Over,Total Population,18 and Over,156,49.5
-2011,California,18 and Over,Total Population,18 and Over,108920,38.5
 2011,Colusa,18 and Over,Total Population,18 and Over,34,23.4
 2011,Contra Costa,18 and Over,Total Population,18 and Over,5362,67.3
 2011,Del Norte,18 and Over,Total Population,18 and Over,102,46.7
@@ -4254,7 +4157,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Yuba,18 and Over,Total Population,18 and Over,202,39.1
 2011,Alameda,18 and Over,Race-Ethnicity,African-American,3060,207.8
 2011,Butte,18 and Over,Race-Ethnicity,African-American,42,154.0
-2011,California,18 and Over,Race-Ethnicity,African-American,23198,135.7
 2011,Contra Costa,18 and Over,Race-Ethnicity,African-American,1760,247.1
 2011,Del Norte,18 and Over,Race-Ethnicity,African-American,19,194.8
 2011,Fresno,18 and Over,Race-Ethnicity,African-American,322,96.4
@@ -4288,7 +4190,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Ventura,18 and Over,Race-Ethnicity,African-American,103,101.0
 2011,Yolo,18 and Over,Race-Ethnicity,African-American,40,89.0
 2011,Yuba,18 and Over,Race-Ethnicity,African-American,14,74.8
-2011,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,341,27.1
 2011,Fresno,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,13,30.6
 2011,Los Angeles,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,39,24.4
 2011,Mendocino,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,14,63.0
@@ -4297,7 +4198,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,San Bernardino,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,23,31.7
 2011,San Diego,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,19,19.0
 2011,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,624,20.3
-2011,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,5525,14.3
 2011,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,291,25.3
 2011,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,86,16.1
 2011,Kern,18 and Over,Race-Ethnicity,Asian/Pacific Islander,35,14.5
@@ -4325,7 +4225,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Yolo,18 and Over,Race-Ethnicity,Asian/Pacific Islander,24,15.1
 2011,Alameda,18 and Over,Race-Ethnicity,Hispanic,841,37.1
 2011,Butte,18 and Over,Race-Ethnicity,Hispanic,48,20.6
-2011,California,18 and Over,Race-Ethnicity,Hispanic,31528,34.6
 2011,Colusa,18 and Over,Race-Ethnicity,Hispanic,13,15.4
 2011,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,1023,60.6
 2011,El Dorado,18 and Over,Race-Ethnicity,Hispanic,23,16.2
@@ -4372,7 +4271,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,18 and Over,Race-Ethnicity,White,158,76.6
 2011,Butte,18 and Over,Race-Ethnicity,White,658,54.9
 2011,Calaveras,18 and Over,Race-Ethnicity,White,149,58.8
-2011,California,18 and Over,Race-Ethnicity,White,43080,35.7
 2011,Colusa,18 and Over,Race-Ethnicity,White,18,31.9
 2011,Contra Costa,18 and Over,Race-Ethnicity,White,1922,48.2
 2011,Del Norte,18 and Over,Race-Ethnicity,White,74,61.0
@@ -4429,7 +4327,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,18 and Over,Sex,Female,103,86.7
 2011,Butte,18 and Over,Sex,Female,524,65.0
 2011,Calaveras,18 and Over,Sex,Female,92,60.5
-2011,California,18 and Over,Sex,Female,70059,48.9
 2011,Colusa,18 and Over,Sex,Female,22,31.3
 2011,Contra Costa,18 and Over,Sex,Female,3434,82.7
 2011,Del Norte,18 and Over,Sex,Female,77,87.2
@@ -4486,7 +4383,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,18 and Over,Sex,Male,59,37.8
 2011,Butte,18 and Over,Sex,Male,283,34.9
 2011,Calaveras,18 and Over,Sex,Male,64,38.9
-2011,California,18 and Over,Sex,Male,38861,27.8
 2011,Colusa,18 and Over,Sex,Male,12,15.8
 2011,Contra Costa,18 and Over,Sex,Male,1928,50.9
 2011,Del Norte,18 and Over,Sex,Male,25,19.2
@@ -4542,7 +4438,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,All Ages,Total Population,All Ages,215,66.7
 2011,Butte,All Ages,Total Population,All Ages,1102,53.5
 2011,Calaveras,All Ages,Total Population,All Ages,223,58.4
-2011,California,All Ages,Total Population,All Ages,178537,48.1
 2011,Colusa,All Ages,Total Population,All Ages,66,30.1
 2011,Contra Costa,All Ages,Total Population,All Ages,7741,74.0
 2011,Del Norte,All Ages,Total Population,All Ages,157,57.9
@@ -4598,7 +4493,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Yuba,All Ages,Total Population,All Ages,313,42.6
 2011,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,14,35.8
 2011,Butte,All Ages,Race-Ethnicity,American Indian/Alaskan Native,15,45.4
-2011,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,500,31.4
 2011,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,22,82.8
 2011,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,18,31.3
 2011,Humboldt,All Ages,Race-Ethnicity,American Indian/Alaskan Native,33,48.4
@@ -4614,7 +4508,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Solano,All Ages,Race-Ethnicity,American Indian/Alaskan Native,15,81.7
 2011,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,936,24.1
 2011,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,20,26.3
-2011,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,8495,18.4
 2011,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,445,30.7
 2011,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,190,22.4
 2011,Humboldt,All Ages,Race-Ethnicity,Asian/Pacific Islander,19,60.2
@@ -4645,7 +4538,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Yolo,All Ages,Race-Ethnicity,Asian/Pacific Islander,35,18.7
 2011,Alameda,All Ages,Race-Ethnicity,African-American,3840,204.5
 2011,Butte,All Ages,Race-Ethnicity,African-American,62,187.8
-2011,California,All Ages,Race-Ethnicity,African-American,35442,163.7
 2011,Contra Costa,All Ages,Race-Ethnicity,African-American,2427,257.0
 2011,Del Norte,All Ages,Race-Ethnicity,African-American,19,144.6
 2011,El Dorado,All Ages,Race-Ethnicity,African-American,17,138.4
@@ -4688,7 +4580,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Alameda,All Ages,Race-Ethnicity,Hispanic,1597,44.6
 2011,Butte,All Ages,Race-Ethnicity,Hispanic,117,31.2
 2011,Calaveras,All Ages,Race-Ethnicity,Hispanic,11,
-2011,California,All Ages,Race-Ethnicity,Hispanic,66710,44.7
 2011,Colusa,All Ages,Race-Ethnicity,Hispanic,27,19.3
 2011,Contra Costa,All Ages,Race-Ethnicity,Hispanic,1874,69.7
 2011,Del Norte,All Ages,Race-Ethnicity,Hispanic,23,41.0
@@ -4739,7 +4630,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,All Ages,Race-Ethnicity,White,204,86.0
 2011,Butte,All Ages,Race-Ethnicity,White,848,58.7
 2011,Calaveras,All Ages,Race-Ethnicity,White,204,68.1
-2011,California,All Ages,Race-Ethnicity,White,57985,41.9
 2011,Colusa,All Ages,Race-Ethnicity,White,34,51.7
 2011,Contra Costa,All Ages,Race-Ethnicity,White,2435,50.3
 2011,Del Norte,All Ages,Race-Ethnicity,White,103,68.1
@@ -4797,7 +4687,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,All Ages,Sex,Female,122,81.7
 2011,Butte,All Ages,Sex,Female,646,62.0
 2011,Calaveras,All Ages,Sex,Female,118,61.8
-2011,California,All Ages,Sex,Female,95192,50.7
 2011,Colusa,All Ages,Sex,Female,27,27.5
 2011,Contra Costa,All Ages,Sex,Female,4322,79.6
 2011,Del Norte,All Ages,Sex,Female,105,88.2
@@ -4855,7 +4744,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,All Ages,Sex,Male,93,58.4
 2011,Butte,All Ages,Sex,Male,456,45.0
 2011,Calaveras,All Ages,Sex,Male,105,55.3
-2011,California,All Ages,Sex,Male,83344,45.1
 2011,Colusa,All Ages,Sex,Male,39,32.0
 2011,Contra Costa,All Ages,Sex,Male,3419,67.4
 2011,Del Norte,All Ages,Sex,Male,52,37.1
@@ -4911,7 +4799,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,Under 18,Total Population,Under 18,53,91.7
 2011,Butte,Under 18,Total Population,Under 18,295,63.8
 2011,Calaveras,Under 18,Total Population,Under 18,67,84.1
-2011,California,Under 18,Total Population,Under 18,69617,75.8
 2011,Colusa,Under 18,Total Population,Under 18,32,49.4
 2011,Contra Costa,Under 18,Total Population,Under 18,2379,93.2
 2011,Del Norte,Under 18,Total Population,Under 18,55,90.0
@@ -4964,7 +4851,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Yuba,Under 18,Total Population,Under 18,111,52.8
 2011,Alameda,Under 18,Race-Ethnicity,African-American,780,195.1
 2011,Butte,Under 18,Race-Ethnicity,African-American,20,285.0
-2011,California,Under 18,Race-Ethnicity,African-American,12244,244.3
 2011,Contra Costa,Under 18,Race-Ethnicity,African-American,667,285.4
 2011,Fresno,Under 18,Race-Ethnicity,African-American,322,238.5
 2011,Kern,Under 18,Race-Ethnicity,African-American,377,292.4
@@ -4993,11 +4879,9 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Stanislaus,Under 18,Race-Ethnicity,African-American,88,277.3
 2011,Tulare,Under 18,Race-Ethnicity,African-American,42,277.7
 2011,Ventura,Under 18,Race-Ethnicity,African-American,48,193.3
-2011,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,159,44.0
 2011,Los Angeles,Under 18,Race-Ethnicity,American Indian/Alaskan Native,20,56.8
 2011,Riverside,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,
 2011,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,312,35.0
-2011,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,2970,30.1
 2011,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,154,46.2
 2011,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,104,40.8
 2011,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,13,17.2
@@ -5020,7 +4904,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Yolo,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,
 2011,Alameda,Under 18,Race-Ethnicity,Hispanic,756,66.5
 2011,Butte,Under 18,Race-Ethnicity,Hispanic,69,61.8
-2011,California,Under 18,Race-Ethnicity,Hispanic,35182,74.0
 2011,Colusa,Under 18,Race-Ethnicity,Hispanic,14,30.5
 2011,Contra Costa,Under 18,Race-Ethnicity,Hispanic,851,96.1
 2011,El Dorado,Under 18,Race-Ethnicity,Hispanic,16,18.9
@@ -5067,7 +4950,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,Under 18,Race-Ethnicity,White,46,113.1
 2011,Butte,Under 18,Race-Ethnicity,White,190,69.5
 2011,Calaveras,Under 18,Race-Ethnicity,White,55,94.7
-2011,California,Under 18,Race-Ethnicity,White,14905,59.9
 2011,Colusa,Under 18,Race-Ethnicity,White,16,108.6
 2011,Contra Costa,Under 18,Race-Ethnicity,White,513,56.6
 2011,Del Norte,Under 18,Race-Ethnicity,White,29,88.5
@@ -5122,7 +5004,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,Under 18,Sex,Female,19,67.3
 2011,Butte,Under 18,Sex,Female,122,53.4
 2011,Calaveras,Under 18,Sex,Female,26,65.4
-2011,California,Under 18,Sex,Female,25133,55.9
 2011,Contra Costa,Under 18,Sex,Female,888,70.7
 2011,Del Norte,Under 18,Sex,Female,28,91.0
 2011,El Dorado,Under 18,Sex,Female,64,32.9
@@ -5172,7 +5053,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2011,Amador,Under 18,Sex,Male,34,117.7
 2011,Butte,Under 18,Sex,Male,173,74.0
 2011,Calaveras,Under 18,Sex,Male,41,102.6
-2011,California,Under 18,Sex,Male,44483,94.8
 2011,Colusa,Under 18,Sex,Male,27,78.8
 2011,Contra Costa,Under 18,Sex,Male,1491,114.8
 2011,Del Norte,Under 18,Sex,Male,27,88.5
@@ -5226,7 +5106,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,18 and Over,Total Population,18 and Over,131,48.4
 2016,Butte,18 and Over,Total Population,18 and Over,544,34.0
 2016,Calaveras,18 and Over,Total Population,18 and Over,131,42.3
-2016,California,18 and Over,Total Population,18 and Over,105358,35.5
 2016,Colusa,18 and Over,Total Population,18 and Over,41,25.0
 2016,Contra Costa,18 and Over,Total Population,18 and Over,3836,45.7
 2016,Del Norte,18 and Over,Total Population,18 and Over,101,53.9
@@ -5281,7 +5160,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Yuba,18 and Over,Total Population,18 and Over,202,37.7
 2016,Alameda,18 and Over,Race-Ethnicity,African-American,2530,166.1
 2016,Butte,18 and Over,Race-Ethnicity,African-American,46,170.6
-2016,California,18 and Over,Race-Ethnicity,African-American,23537,132.7
 2016,Contra Costa,18 and Over,Race-Ethnicity,African-American,1325,169.2
 2016,Fresno,18 and Over,Race-Ethnicity,African-American,251,73.3
 2016,Humboldt,18 and Over,Race-Ethnicity,African-American,54,407.9
@@ -5318,7 +5196,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Yolo,18 and Over,Race-Ethnicity,African-American,34,93.5
 2016,Yuba,18 and Over,Race-Ethnicity,African-American,25,145.5
 2016,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,31,84.3
-2016,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,477,36.6
 2016,Humboldt,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,24,45.0
 2016,Lake,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,11,
 2016,Los Angeles,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,44,25.8
@@ -5329,7 +5206,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,San Diego,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,34,30.9
 2016,San Francisco,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,30,177.3
 2016,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,683,19.1
-2016,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,6708,15.7
 2016,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,317,23.4
 2016,El Dorado,18 and Over,Race-Ethnicity,Asian/Pacific Islander,11,
 2016,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,68,10.4
@@ -5363,7 +5239,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Alameda,18 and Over,Race-Ethnicity,Hispanic,986,36.4
 2016,Amador,18 and Over,Race-Ethnicity,Hispanic,18,55.2
 2016,Butte,18 and Over,Race-Ethnicity,Hispanic,48,21.4
-2016,California,18 and Over,Race-Ethnicity,Hispanic,36171,33.5
 2016,Colusa,18 and Over,Race-Ethnicity,Hispanic,17,20.1
 2016,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,868,44.2
 2016,El Dorado,18 and Over,Race-Ethnicity,Hispanic,41,25.0
@@ -5412,7 +5287,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,18 and Over,Race-Ethnicity,White,107,50.6
 2016,Butte,18 and Over,Race-Ethnicity,White,413,35.4
 2016,Calaveras,18 and Over,Race-Ethnicity,White,117,46.4
-2016,California,18 and Over,Race-Ethnicity,White,33698,29.4
 2016,Colusa,18 and Over,Race-Ethnicity,White,23,35.7
 2016,Contra Costa,18 and Over,Race-Ethnicity,White,1157,29.9
 2016,Del Norte,18 and Over,Race-Ethnicity,White,86,80.2
@@ -5469,7 +5343,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,18 and Over,Sex,Female,80,67.0
 2016,Butte,18 and Over,Sex,Female,308,38.4
 2016,Calaveras,18 and Over,Sex,Female,90,59.2
-2016,California,18 and Over,Sex,Female,64368,43.4
 2016,Colusa,18 and Over,Sex,Female,29,37.2
 2016,Contra Costa,18 and Over,Sex,Female,2416,55.8
 2016,Del Norte,18 and Over,Sex,Female,68,86.6
@@ -5525,7 +5398,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,18 and Over,Sex,Male,51,34.6
 2016,Butte,18 and Over,Sex,Male,236,29.5
 2016,Calaveras,18 and Over,Sex,Male,41,26.0
-2016,California,18 and Over,Sex,Male,40985,27.5
 2016,Colusa,18 and Over,Sex,Male,12,12.4
 2016,Contra Costa,18 and Over,Sex,Male,1420,34.9
 2016,Del Norte,18 and Over,Sex,Male,33,30.9
@@ -5581,7 +5453,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,All Ages,Total Population,All Ages,187,61.8
 2016,Butte,All Ages,Total Population,All Ages,770,38.1
 2016,Calaveras,All Ages,Total Population,All Ages,171,45.3
-2016,California,All Ages,Total Population,All Ages,174733,45.8
 2016,Colusa,All Ages,Total Population,All Ages,67,29.6
 2016,Contra Costa,All Ages,Total Population,All Ages,6021,56.8
 2016,Del Norte,All Ages,Total Population,All Ages,172,71.1
@@ -5636,7 +5507,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Yolo,All Ages,Total Population,All Ages,774,38.4
 2016,Yuba,All Ages,Total Population,All Ages,297,39.2
 2016,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,37,80.5
-2016,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,672,46.1
 2016,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,14,56.3
 2016,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,12,22.1
 2016,Humboldt,All Ages,Race-Ethnicity,American Indian/Alaskan Native,32,46.2
@@ -5655,7 +5525,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Sonoma,All Ages,Race-Ethnicity,American Indian/Alaskan Native,14,37.5
 2016,Tulare,All Ages,Race-Ethnicity,American Indian/Alaskan Native,11,
 2016,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,1112,27.0
-2016,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,10306,21.0
 2016,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,474,29.6
 2016,El Dorado,All Ages,Race-Ethnicity,Asian/Pacific Islander,17,30.3
 2016,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,214,23.2
@@ -5690,7 +5559,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Yuba,All Ages,Race-Ethnicity,Asian/Pacific Islander,16,35.2
 2016,Alameda,All Ages,Race-Ethnicity,African-American,3646,204.0
 2016,Butte,All Ages,Race-Ethnicity,African-American,66,201.3
-2016,California,All Ages,Race-Ethnicity,African-American,36180,168.1
 2016,Contra Costa,All Ages,Race-Ethnicity,African-American,1982,206.2
 2016,El Dorado,All Ages,Race-Ethnicity,African-American,14,111.8
 2016,Fresno,All Ages,Race-Ethnicity,African-American,721,146.4
@@ -5731,7 +5599,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Alameda,All Ages,Race-Ethnicity,Hispanic,2187,54.3
 2016,Amador,All Ages,Race-Ethnicity,Hispanic,28,65.2
 2016,Butte,All Ages,Race-Ethnicity,Hispanic,83,24.5
-2016,California,All Ages,Race-Ethnicity,Hispanic,73234,44.7
 2016,Colusa,All Ages,Race-Ethnicity,Hispanic,33,24.6
 2016,Contra Costa,All Ages,Race-Ethnicity,Hispanic,1727,57.7
 2016,Del Norte,All Ages,Race-Ethnicity,Hispanic,21,37.9
@@ -5783,7 +5650,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,All Ages,Race-Ethnicity,White,146,62.7
 2016,Butte,All Ages,Race-Ethnicity,White,571,41.3
 2016,Calaveras,All Ages,Race-Ethnicity,White,151,50.5
-2016,California,All Ages,Race-Ethnicity,White,45866,34.8
 2016,Colusa,All Ages,Race-Ethnicity,White,33,42.4
 2016,Contra Costa,All Ages,Race-Ethnicity,White,1534,34.0
 2016,Del Norte,All Ages,Race-Ethnicity,White,126,92.3
@@ -5840,7 +5706,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,All Ages,Sex,Female,102,69.3
 2016,Butte,All Ages,Sex,Female,412,40.5
 2016,Calaveras,All Ages,Sex,Female,100,50.8
-2016,California,All Ages,Sex,Female,89559,46.6
 2016,Colusa,All Ages,Sex,Female,40,37.4
 2016,Contra Costa,All Ages,Sex,Female,3255,59.2
 2016,Del Norte,All Ages,Sex,Female,104,96.2
@@ -5897,7 +5762,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,All Ages,Sex,Male,85,57.9
 2016,Butte,All Ages,Sex,Male,358,35.6
 2016,Calaveras,All Ages,Sex,Male,71,39.6
-2016,California,All Ages,Sex,Male,85169,44.6
 2016,Colusa,All Ages,Sex,Male,27,21.9
 2016,Contra Costa,All Ages,Sex,Male,2766,53.8
 2016,Del Norte,All Ages,Sex,Male,68,53.5
@@ -5954,7 +5818,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,Under 18,Total Population,Under 18,56,100.4
 2016,Butte,Under 18,Total Population,Under 18,226,49.9
 2016,Calaveras,Under 18,Total Population,Under 18,40,53.8
-2016,California,Under 18,Total Population,Under 18,69375,75.3
 2016,Colusa,Under 18,Total Population,Under 18,26,43.1
 2016,Contra Costa,Under 18,Total Population,Under 18,2185,88.8
 2016,Del Norte,Under 18,Total Population,Under 18,71,120.8
@@ -6009,7 +5872,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Yuba,Under 18,Total Population,Under 18,95,43.7
 2016,Alameda,Under 18,Race-Ethnicity,African-American,1116,313.3
 2016,Butte,Under 18,Race-Ethnicity,African-American,20,289.5
-2016,California,Under 18,Race-Ethnicity,African-American,12643,269.9
 2016,Contra Costa,Under 18,Race-Ethnicity,African-American,657,312.4
 2016,Fresno,Under 18,Race-Ethnicity,African-American,470,356.6
 2016,Humboldt,Under 18,Race-Ethnicity,African-American,16,595.6
@@ -6039,13 +5901,11 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Ventura,Under 18,Race-Ethnicity,African-American,52,236.6
 2016,Yolo,Under 18,Race-Ethnicity,African-American,28,272.7
 2016,Yuba,Under 18,Race-Ethnicity,African-American,17,293.4
-2016,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,195,73.3
 2016,Los Angeles,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,65.2
 2016,Riverside,Under 18,Race-Ethnicity,American Indian/Alaskan Native,13,71.1
 2016,Sacramento,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,77.3
 2016,San Bernardino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,43,371.9
 2016,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,429,49.9
-2016,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,3598,36.3
 2016,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,157,47.4
 2016,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,146,60.0
 2016,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,29,38.5
@@ -6070,7 +5930,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Ventura,Under 18,Race-Ethnicity,Asian/Pacific Islander,20,18.5
 2016,Alameda,Under 18,Race-Ethnicity,Hispanic,1201,106.0
 2016,Butte,Under 18,Race-Ethnicity,Hispanic,35,33.3
-2016,California,Under 18,Race-Ethnicity,Hispanic,37063,77.1
 2016,Colusa,Under 18,Race-Ethnicity,Hispanic,16,37.5
 2016,Contra Costa,Under 18,Race-Ethnicity,Hispanic,859,96.4
 2016,Del Norte,Under 18,Race-Ethnicity,Hispanic,15,110.8
@@ -6118,7 +5977,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,Under 18,Race-Ethnicity,White,39,97.3
 2016,Butte,Under 18,Race-Ethnicity,White,158,58.2
 2016,Calaveras,Under 18,Race-Ethnicity,White,34,62.1
-2016,California,Under 18,Race-Ethnicity,White,12168,50.3
 2016,Contra Costa,Under 18,Race-Ethnicity,White,377,45.7
 2016,Del Norte,Under 18,Race-Ethnicity,White,40,127.1
 2016,El Dorado,Under 18,Race-Ethnicity,White,86,37.4
@@ -6171,7 +6029,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Alameda,Under 18,Sex,Female,1314,77.6
 2016,Amador,Under 18,Sex,Female,22,76.0
 2016,Butte,Under 18,Sex,Female,104,46.6
-2016,California,Under 18,Sex,Female,25191,56.0
 2016,Colusa,Under 18,Sex,Female,11,
 2016,Contra Costa,Under 18,Sex,Female,839,68.8
 2016,Del Norte,Under 18,Sex,Female,36,123.7
@@ -6221,7 +6078,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2016,Amador,Under 18,Sex,Male,34,125.2
 2016,Butte,Under 18,Sex,Male,122,53.2
 2016,Calaveras,Under 18,Sex,Male,30,78.7
-2016,California,Under 18,Sex,Male,44184,93.7
 2016,Colusa,Under 18,Sex,Male,15,49.3
 2016,Contra Costa,Under 18,Sex,Male,1346,108.1
 2016,Del Norte,Under 18,Sex,Male,35,118.7
@@ -6276,7 +6132,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,18 and Over,Total Population,18 and Over,138,51.8
 2017,Butte,18 and Over,Total Population,18 and Over,710,43.9
 2017,Calaveras,18 and Over,Total Population,18 and Over,148,49.8
-2017,California,18 and Over,Total Population,18 and Over,111266,37.4
 2017,Colusa,18 and Over,Total Population,18 and Over,25,16.8
 2017,Contra Costa,18 and Over,Total Population,18 and Over,4502,53.3
 2017,Del Norte,18 and Over,Total Population,18 and Over,98,51.6
@@ -6330,7 +6185,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Yolo,18 and Over,Total Population,18 and Over,600,37.9
 2017,Yuba,18 and Over,Total Population,18 and Over,245,45.1
 2017,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,30,75.5
-2017,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,530,40.6
 2017,Contra Costa,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,17,71.4
 2017,Del Norte,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,11,
 2017,Fresno,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,12,25.4
@@ -6349,7 +6203,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Sonoma,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,18,52.3
 2017,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,710,18.6
 2017,Butte,18 and Over,Race-Ethnicity,Asian/Pacific Islander,14,24.1
-2017,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,7320,16.3
 2017,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,413,28.5
 2017,El Dorado,18 and Over,Race-Ethnicity,Asian/Pacific Islander,15,29.2
 2017,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,74,10.6
@@ -6382,7 +6235,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Yuba,18 and Over,Race-Ethnicity,Asian/Pacific Islander,12,41.3
 2017,Alameda,18 and Over,Race-Ethnicity,African-American,2553,173.1
 2017,Butte,18 and Over,Race-Ethnicity,African-American,57,200.9
-2017,California,18 and Over,Race-Ethnicity,African-American,24217,138.2
 2017,Contra Costa,18 and Over,Race-Ethnicity,African-American,1485,184.4
 2017,El Dorado,18 and Over,Race-Ethnicity,African-American,21,178.8
 2017,Fresno,18 and Over,Race-Ethnicity,African-American,281,77.1
@@ -6423,7 +6275,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Alameda,18 and Over,Race-Ethnicity,Hispanic,1013,37.6
 2017,Amador,18 and Over,Race-Ethnicity,Hispanic,22,60.3
 2017,Butte,18 and Over,Race-Ethnicity,Hispanic,87,32.5
-2017,California,18 and Over,Race-Ethnicity,Hispanic,39070,35.5
 2017,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,1192,57.1
 2017,Del Norte,18 and Over,Race-Ethnicity,Hispanic,11,
 2017,El Dorado,18 and Over,Race-Ethnicity,Hispanic,57,32.4
@@ -6471,7 +6322,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,18 and Over,Race-Ethnicity,White,100,48.2
 2017,Butte,18 and Over,Race-Ethnicity,White,515,45.8
 2017,Calaveras,18 and Over,Race-Ethnicity,White,128,56.7
-2017,California,18 and Over,Race-Ethnicity,White,34680,30.6
 2017,Contra Costa,18 and Over,Race-Ethnicity,White,1241,33.1
 2017,Del Norte,18 and Over,Race-Ethnicity,White,75,74.6
 2017,El Dorado,18 and Over,Race-Ethnicity,White,353,37.6
@@ -6527,7 +6377,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,18 and Over,Sex,Female,79,65.9
 2017,Butte,18 and Over,Sex,Female,395,49.3
 2017,Calaveras,18 and Over,Sex,Female,101,69.8
-2017,California,18 and Over,Sex,Female,68393,45.8
 2017,Colusa,18 and Over,Sex,Female,12,16.4
 2017,Contra Costa,18 and Over,Sex,Female,2749,63.2
 2017,Del Norte,18 and Over,Sex,Female,73,91.7
@@ -6583,7 +6432,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,18 and Over,Sex,Male,59,40.9
 2017,Butte,18 and Over,Sex,Male,315,38.5
 2017,Calaveras,18 and Over,Sex,Male,47,30.5
-2017,California,18 and Over,Sex,Male,42873,28.8
 2017,Colusa,18 and Over,Sex,Male,13,16.5
 2017,Contra Costa,18 and Over,Sex,Male,1753,42.8
 2017,Del Norte,18 and Over,Sex,Male,25,23.2
@@ -6640,7 +6488,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,All Ages,Total Population,All Ages,176,56.8
 2017,Butte,All Ages,Total Population,All Ages,936,45.3
 2017,Calaveras,All Ages,Total Population,All Ages,198,55.1
-2017,California,All Ages,Total Population,All Ages,180053,46.9
 2017,Colusa,All Ages,Total Population,All Ages,62,28.4
 2017,Contra Costa,All Ages,Total Population,All Ages,6706,62.6
 2017,Del Norte,All Ages,Total Population,All Ages,150,61.2
@@ -6694,7 +6541,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Yolo,All Ages,Total Population,All Ages,894,43.3
 2017,Yuba,All Ages,Total Population,All Ages,366,47.9
 2017,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,36,75.0
-2017,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,734,46.1
 2017,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,33,125.5
 2017,Del Norte,All Ages,Race-Ethnicity,American Indian/Alaskan Native,16,93.1
 2017,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,17,28.2
@@ -6715,7 +6561,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Sonoma,All Ages,Race-Ethnicity,American Indian/Alaskan Native,23,60.1
 2017,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,1112,25.2
 2017,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,21,25.4
-2017,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,10945,21.2
 2017,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,579,34.0
 2017,El Dorado,All Ages,Race-Ethnicity,Asian/Pacific Islander,21,34.1
 2017,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,208,21.5
@@ -6749,7 +6594,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Yuba,All Ages,Race-Ethnicity,Asian/Pacific Islander,14,33.8
 2017,Alameda,All Ages,Race-Ethnicity,African-American,3564,202.8
 2017,Butte,All Ages,Race-Ethnicity,African-American,68,192.3
-2017,California,All Ages,Race-Ethnicity,African-American,36416,168.0
 2017,Contra Costa,All Ages,Race-Ethnicity,African-American,2136,216.3
 2017,El Dorado,All Ages,Race-Ethnicity,African-American,27,206.5
 2017,Fresno,All Ages,Race-Ethnicity,African-American,792,156.3
@@ -6791,7 +6635,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,All Ages,Race-Ethnicity,Hispanic,28,58.7
 2017,Butte,All Ages,Race-Ethnicity,Hispanic,133,34.8
 2017,Calaveras,All Ages,Race-Ethnicity,Hispanic,11,
-2017,California,All Ages,Race-Ethnicity,Hispanic,75479,45.8
 2017,Colusa,All Ages,Race-Ethnicity,Hispanic,42,25.9
 2017,Contra Costa,All Ages,Race-Ethnicity,Hispanic,2027,66.9
 2017,Del Norte,All Ages,Race-Ethnicity,Hispanic,16,29.6
@@ -6845,7 +6688,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,All Ages,Race-Ethnicity,White,125,52.9
 2017,Butte,All Ages,Race-Ethnicity,White,664,48.0
 2017,Calaveras,All Ages,Race-Ethnicity,White,167,61.2
-2017,California,All Ages,Race-Ethnicity,White,46961,35.6
 2017,Colusa,All Ages,Race-Ethnicity,White,12,22.8
 2017,Contra Costa,All Ages,Race-Ethnicity,White,1625,36.2
 2017,Del Norte,All Ages,Race-Ethnicity,White,109,84.6
@@ -6902,7 +6744,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,All Ages,Sex,Female,88,57.8
 2017,Butte,All Ages,Sex,Female,472,45.2
 2017,Calaveras,All Ages,Sex,Female,118,63.9
-2017,California,All Ages,Sex,Female,93308,48.2
 2017,Colusa,All Ages,Sex,Female,23,21.8
 2017,Contra Costa,All Ages,Sex,Female,3628,65.4
 2017,Del Norte,All Ages,Sex,Female,91,83.8
@@ -6959,7 +6800,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,All Ages,Sex,Male,88,57.7
 2017,Butte,All Ages,Sex,Male,464,45.3
 2017,Calaveras,All Ages,Sex,Male,80,46.3
-2017,California,All Ages,Sex,Male,86745,45.3
 2017,Colusa,All Ages,Sex,Male,39,34.0
 2017,Contra Costa,All Ages,Sex,Male,3078,59.1
 2017,Del Norte,All Ages,Sex,Male,59,46.6
@@ -7016,7 +6856,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,Under 18,Total Population,Under 18,38,71.2
 2017,Butte,Under 18,Total Population,Under 18,226,49.4
 2017,Calaveras,Under 18,Total Population,Under 18,50,70.3
-2017,California,Under 18,Total Population,Under 18,68787,74.5
 2017,Colusa,Under 18,Total Population,Under 18,37,61.9
 2017,Contra Costa,Under 18,Total Population,Under 18,2204,89.4
 2017,Del Norte,Under 18,Total Population,Under 18,52,88.7
@@ -7067,14 +6906,12 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Ventura,Under 18,Total Population,Under 18,1080,54.9
 2017,Yolo,Under 18,Total Population,Under 18,294,58.8
 2017,Yuba,Under 18,Total Population,Under 18,121,56.0
-2017,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,204,62.0
 2017,Contra Costa,Under 18,Race-Ethnicity,American Indian/Alaskan Native,16,281.2
 2017,Mendocino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,147.4
 2017,San Bernardino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,43,281.3
 2017,San Diego,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,37.6
 2017,San Francisco,Under 18,Race-Ethnicity,American Indian/Alaskan Native,16,622.4
 2017,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,402,44.2
-2017,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,3625,35.3
 2017,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,166,49.9
 2017,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,134,53.0
 2017,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,35,44.6
@@ -7099,7 +6936,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Yolo,Under 18,Race-Ethnicity,Asian/Pacific Islander,12,27.0
 2017,Alameda,Under 18,Race-Ethnicity,African-American,1011,288.2
 2017,Butte,Under 18,Race-Ethnicity,African-American,11,
-2017,California,Under 18,Race-Ethnicity,African-American,12199,253.7
 2017,Contra Costa,Under 18,Race-Ethnicity,African-American,651,308.0
 2017,Fresno,Under 18,Race-Ethnicity,African-American,511,384.5
 2017,Imperial,Under 18,Race-Ethnicity,African-American,14,380.6
@@ -7132,7 +6968,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Yuba,Under 18,Race-Ethnicity,African-American,21,347.1
 2017,Alameda,Under 18,Race-Ethnicity,Hispanic,1085,97.5
 2017,Butte,Under 18,Race-Ethnicity,Hispanic,46,41.4
-2017,California,Under 18,Race-Ethnicity,Hispanic,36409,75.5
 2017,Colusa,Under 18,Race-Ethnicity,Hispanic,32,72.0
 2017,Contra Costa,Under 18,Race-Ethnicity,Hispanic,835,95.4
 2017,El Dorado,Under 18,Race-Ethnicity,Hispanic,40,53.9
@@ -7179,7 +7014,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,Under 18,Race-Ethnicity,White,25,66.4
 2017,Butte,Under 18,Race-Ethnicity,White,149,54.3
 2017,Calaveras,Under 18,Race-Ethnicity,White,39,74.2
-2017,California,Under 18,Race-Ethnicity,White,12281,50.2
 2017,Contra Costa,Under 18,Race-Ethnicity,White,384,45.3
 2017,Del Norte,Under 18,Race-Ethnicity,White,34,113.1
 2017,El Dorado,Under 18,Race-Ethnicity,White,92,38.1
@@ -7231,7 +7065,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Alameda,Under 18,Sex,Female,1240,72.7
 2017,Butte,Under 18,Sex,Female,77,33.6
 2017,Calaveras,Under 18,Sex,Female,17,46.9
-2017,California,Under 18,Sex,Female,24915,55.2
 2017,Colusa,Under 18,Sex,Female,11,
 2017,Contra Costa,Under 18,Sex,Female,879,71.9
 2017,Del Norte,Under 18,Sex,Female,18,61.3
@@ -7283,7 +7116,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2017,Amador,Under 18,Sex,Male,29,106.1
 2017,Butte,Under 18,Sex,Male,149,64.9
 2017,Calaveras,Under 18,Sex,Male,33,91.8
-2017,California,Under 18,Sex,Male,43872,92.8
 2017,Colusa,Under 18,Sex,Male,26,84.6
 2017,Contra Costa,Under 18,Sex,Male,1325,106.2
 2017,Del Norte,Under 18,Sex,Male,34,113.9
@@ -7337,7 +7169,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,18 and Over,Total Population,18 and Over,103,38.5
 2018,Butte,18 and Over,Total Population,18 and Over,706,41.6
 2018,Calaveras,18 and Over,Total Population,18 and Over,136,45.9
-2018,California,18 and Over,Total Population,18 and Over,104054,34.6
 2018,Colusa,18 and Over,Total Population,18 and Over,68,42.9
 2018,Contra Costa,18 and Over,Total Population,18 and Over,4077,47.6
 2018,Del Norte,18 and Over,Total Population,18 and Over,86,44.5
@@ -7391,7 +7222,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Yolo,18 and Over,Total Population,18 and Over,544,34.5
 2018,Yuba,18 and Over,Total Population,18 and Over,227,40.8
 2018,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,18,48.7
-2018,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,479,37.0
 2018,Humboldt,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,31,61.4
 2018,Los Angeles,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,40,25.0
 2018,Mendocino,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,12,54.4
@@ -7402,7 +7232,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,San Francisco,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,15,81.1
 2018,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,694,18.1
 2018,Butte,18 and Over,Race-Ethnicity,Asian/Pacific Islander,15,22.0
-2018,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,6974,15.1
 2018,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,366,24.2
 2018,El Dorado,18 and Over,Race-Ethnicity,Asian/Pacific Islander,12,20.8
 2018,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,126,17.5
@@ -7435,7 +7264,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Yolo,18 and Over,Race-Ethnicity,Asian/Pacific Islander,37,19.2
 2018,Alameda,18 and Over,Race-Ethnicity,African-American,2282,155.4
 2018,Butte,18 and Over,Race-Ethnicity,African-American,90,286.1
-2018,California,18 and Over,Race-Ethnicity,African-American,22629,129.1
 2018,Contra Costa,18 and Over,Race-Ethnicity,African-American,1366,166.0
 2018,El Dorado,18 and Over,Race-Ethnicity,African-American,21,188.7
 2018,Fresno,18 and Over,Race-Ethnicity,African-American,374,107.6
@@ -7475,7 +7303,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Yuba,18 and Over,Race-Ethnicity,African-American,41,239.6
 2018,Alameda,18 and Over,Race-Ethnicity,Hispanic,957,34.9
 2018,Butte,18 and Over,Race-Ethnicity,Hispanic,51,16.6
-2018,California,18 and Over,Race-Ethnicity,Hispanic,37074,33.1
 2018,Colusa,18 and Over,Race-Ethnicity,Hispanic,30,31.7
 2018,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,1051,48.7
 2018,El Dorado,18 and Over,Race-Ethnicity,Hispanic,53,28.4
@@ -7524,7 +7351,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,18 and Over,Race-Ethnicity,White,89,45.3
 2018,Butte,18 and Over,Race-Ethnicity,White,501,42.4
 2018,Calaveras,18 and Over,Race-Ethnicity,White,116,50.8
-2018,California,18 and Over,Race-Ethnicity,White,31990,28.2
 2018,Colusa,18 and Over,Race-Ethnicity,White,30,58.6
 2018,Contra Costa,18 and Over,Race-Ethnicity,White,1133,29.7
 2018,Del Norte,18 and Over,Race-Ethnicity,White,72,67.8
@@ -7580,7 +7406,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,18 and Over,Sex,Female,59,49.6
 2018,Butte,18 and Over,Sex,Female,388,47.3
 2018,Calaveras,18 and Over,Sex,Female,81,58.0
-2018,California,18 and Over,Sex,Female,63512,42.2
 2018,Colusa,18 and Over,Sex,Female,41,51.7
 2018,Contra Costa,18 and Over,Sex,Female,2538,57.7
 2018,Del Norte,18 and Over,Sex,Female,52,64.0
@@ -7636,7 +7461,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,18 and Over,Sex,Male,44,29.9
 2018,Butte,18 and Over,Sex,Male,318,35.8
 2018,Calaveras,18 and Over,Sex,Male,55,34.1
-2018,California,18 and Over,Sex,Male,40536,27.0
 2018,Colusa,18 and Over,Sex,Male,27,33.3
 2018,Contra Costa,18 and Over,Sex,Male,1539,37.1
 2018,Del Norte,18 and Over,Sex,Male,34,30.8
@@ -7693,7 +7517,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,All Ages,Total Population,All Ages,137,44.3
 2018,Butte,All Ages,Total Population,All Ages,907,42.2
 2018,Calaveras,All Ages,Total Population,All Ages,186,52.3
-2018,California,All Ages,Total Population,All Ages,163807,42.4
 2018,Colusa,All Ages,Total Population,All Ages,118,53.6
 2018,Contra Costa,All Ages,Total Population,All Ages,6001,55.4
 2018,Del Norte,All Ages,Total Population,All Ages,132,53.6
@@ -7748,7 +7571,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Yolo,All Ages,Total Population,All Ages,807,38.9
 2018,Yuba,All Ages,Total Population,All Ages,333,43.0
 2018,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,22,47.8
-2018,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,683,43.5
 2018,Contra Costa,All Ages,Race-Ethnicity,American Indian/Alaskan Native,14,47.8
 2018,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,14,23.9
 2018,Humboldt,All Ages,Race-Ethnicity,American Indian/Alaskan Native,42,59.9
@@ -7765,7 +7587,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Sonoma,All Ages,Race-Ethnicity,American Indian/Alaskan Native,14,41.5
 2018,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,1082,24.4
 2018,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,17,18.0
-2018,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,10326,19.6
 2018,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,521,30.0
 2018,El Dorado,All Ages,Race-Ethnicity,Asian/Pacific Islander,17,27.2
 2018,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,248,25.9
@@ -7799,7 +7620,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Yolo,All Ages,Race-Ethnicity,Asian/Pacific Islander,51,21.8
 2018,Alameda,All Ages,Race-Ethnicity,African-American,3091,176.1
 2018,Butte,All Ages,Race-Ethnicity,African-American,111,297.4
-2018,California,All Ages,Race-Ethnicity,African-American,33599,155.0
 2018,Contra Costa,All Ages,Race-Ethnicity,African-American,1974,197.7
 2018,El Dorado,All Ages,Race-Ethnicity,African-American,25,196.0
 2018,Fresno,All Ages,Race-Ethnicity,African-American,865,175.2
@@ -7841,7 +7661,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,All Ages,Race-Ethnicity,Hispanic,17,36.7
 2018,Butte,All Ages,Race-Ethnicity,Hispanic,78,18.5
 2018,Calaveras,All Ages,Race-Ethnicity,Hispanic,13,23.7
-2018,California,All Ages,Race-Ethnicity,Hispanic,68760,41.6
 2018,Colusa,All Ages,Race-Ethnicity,Hispanic,69,46.2
 2018,Contra Costa,All Ages,Race-Ethnicity,Hispanic,1769,57.2
 2018,Del Norte,All Ages,Race-Ethnicity,Hispanic,16,27.7
@@ -7894,7 +7713,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,All Ages,Race-Ethnicity,White,109,46.7
 2018,Butte,All Ages,Race-Ethnicity,White,629,43.4
 2018,Calaveras,All Ages,Race-Ethnicity,White,151,54.6
-2018,California,All Ages,Race-Ethnicity,White,42139,31.6
 2018,Colusa,All Ages,Race-Ethnicity,White,41,65.5
 2018,Contra Costa,All Ages,Race-Ethnicity,White,1449,31.7
 2018,Del Norte,All Ages,Race-Ethnicity,White,96,70.8
@@ -7952,7 +7770,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,All Ages,Sex,Female,75,51.4
 2018,Butte,All Ages,Sex,Female,468,44.2
 2018,Calaveras,All Ages,Sex,Female,99,56.0
-2018,California,All Ages,Sex,Female,85198,43.7
 2018,Colusa,All Ages,Sex,Female,54,50.1
 2018,Contra Costa,All Ages,Sex,Female,3308,59.0
 2018,Del Norte,All Ages,Sex,Female,67,61.3
@@ -8009,7 +7826,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,All Ages,Sex,Male,62,39.4
 2018,Butte,All Ages,Sex,Male,439,40.1
 2018,Calaveras,All Ages,Sex,Male,87,48.5
-2018,California,All Ages,Sex,Male,78603,40.8
 2018,Colusa,All Ages,Sex,Male,64,56.2
 2018,Contra Costa,All Ages,Sex,Male,2693,51.4
 2018,Del Norte,All Ages,Sex,Male,65,49.8
@@ -8066,7 +7882,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,Under 18,Total Population,Under 18,34,60.9
 2018,Butte,Under 18,Total Population,Under 18,201,44.0
 2018,Calaveras,Under 18,Total Population,Under 18,50,70.6
-2018,California,Under 18,Total Population,Under 18,59753,64.7
 2018,Colusa,Under 18,Total Population,Under 18,50,84.3
 2018,Contra Costa,Under 18,Total Population,Under 18,1924,77.9
 2018,Del Norte,Under 18,Total Population,Under 18,46,79.7
@@ -8119,14 +7934,12 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Ventura,Under 18,Total Population,Under 18,946,48.4
 2018,Yolo,Under 18,Total Population,Under 18,263,51.8
 2018,Yuba,Under 18,Total Population,Under 18,106,49.2
-2018,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,204,62.2
 2018,Humboldt,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,
 2018,Los Angeles,Under 18,Race-Ethnicity,American Indian/Alaskan Native,17,48.2
 2018,Mendocino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,
 2018,Riverside,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,48.8
 2018,San Bernardino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,39,250.5
 2018,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,388,42.6
-2018,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,3352,32.6
 2018,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,155,46.6
 2018,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,122,50.2
 2018,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,16,21.1
@@ -8150,7 +7963,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Yolo,Under 18,Race-Ethnicity,Asian/Pacific Islander,14,29.3
 2018,Alameda,Under 18,Race-Ethnicity,African-American,809,235.7
 2018,Butte,Under 18,Race-Ethnicity,African-American,21,329.9
-2018,California,Under 18,Race-Ethnicity,African-American,10970,229.5
 2018,Contra Costa,Under 18,Race-Ethnicity,African-American,608,288.9
 2018,Fresno,Under 18,Race-Ethnicity,African-American,491,369.8
 2018,Kern,Under 18,Race-Ethnicity,African-American,427,314.1
@@ -8179,7 +7991,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Yuba,Under 18,Race-Ethnicity,African-American,16,250.2
 2018,Alameda,Under 18,Race-Ethnicity,Hispanic,826,74.5
 2018,Butte,Under 18,Race-Ethnicity,Hispanic,27,24.1
-2018,California,Under 18,Race-Ethnicity,Hispanic,31686,65.9
 2018,Colusa,Under 18,Race-Ethnicity,Hispanic,39,88.1
 2018,Contra Costa,Under 18,Race-Ethnicity,Hispanic,718,81.9
 2018,El Dorado,Under 18,Race-Ethnicity,Hispanic,30,40.3
@@ -8225,7 +8036,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,Under 18,Race-Ethnicity,White,20,50.7
 2018,Butte,Under 18,Race-Ethnicity,White,128,46.3
 2018,Calaveras,Under 18,Race-Ethnicity,White,35,65.4
-2018,California,Under 18,Race-Ethnicity,White,10149,41.3
 2018,Colusa,Under 18,Race-Ethnicity,White,11,
 2018,Contra Costa,Under 18,Race-Ethnicity,White,316,37.2
 2018,Del Norte,Under 18,Race-Ethnicity,White,24,79.3
@@ -8279,7 +8089,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,Under 18,Sex,Female,16,56.5
 2018,Butte,Under 18,Sex,Female,80,35.4
 2018,Calaveras,Under 18,Sex,Female,18,50.1
-2018,California,Under 18,Sex,Female,21686,48.1
 2018,Colusa,Under 18,Sex,Female,13,45.4
 2018,Contra Costa,Under 18,Sex,Female,770,62.9
 2018,Del Norte,Under 18,Sex,Female,15,53.7
@@ -8330,7 +8139,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2018,Amador,Under 18,Sex,Male,18,66.5
 2018,Butte,Under 18,Sex,Male,121,52.5
 2018,Calaveras,Under 18,Sex,Male,32,90.0
-2018,California,Under 18,Sex,Male,38067,80.5
 2018,Colusa,Under 18,Sex,Male,37,122.4
 2018,Contra Costa,Under 18,Sex,Male,1154,92.4
 2018,Del Norte,Under 18,Sex,Male,31,104.5
@@ -8385,7 +8193,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,18 and Over,Total Population,18 and Over,126,44.3
 2019,Butte,18 and Over,Total Population,18 and Over,557,33.0
 2019,Calaveras,18 and Over,Total Population,18 and Over,135,46.5
-2019,California,18 and Over,Total Population,18 and Over,106982,35.4
 2019,Colusa,18 and Over,Total Population,18 and Over,61,36.5
 2019,Contra Costa,18 and Over,Total Population,18 and Over,3950,45.3
 2019,Del Norte,18 and Over,Total Population,18 and Over,83,45.5
@@ -8439,7 +8246,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Yolo,18 and Over,Total Population,18 and Over,519,31.3
 2019,Yuba,18 and Over,Total Population,18 and Over,233,41.6
 2019,Alameda,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,24,55.6
-2019,California,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,424,32.5
 2019,Fresno,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,12,24.5
 2019,Humboldt,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,31,58.1
 2019,Los Angeles,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,62,35.0
@@ -8451,7 +8257,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,San Diego,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,26,21.9
 2019,Siskiyou,18 and Over,Race-Ethnicity,American Indian/Alaskan Native,13,132.3
 2019,Alameda,18 and Over,Race-Ethnicity,Asian/Pacific Islander,719,18.2
-2019,California,18 and Over,Race-Ethnicity,Asian/Pacific Islander,7208,15.4
 2019,Contra Costa,18 and Over,Race-Ethnicity,Asian/Pacific Islander,305,19.6
 2019,Fresno,18 and Over,Race-Ethnicity,Asian/Pacific Islander,109,15.4
 2019,Kern,18 and Over,Race-Ethnicity,Asian/Pacific Islander,63,20.5
@@ -8482,7 +8287,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Yolo,18 and Over,Race-Ethnicity,Asian/Pacific Islander,30,55.4
 2019,Alameda,18 and Over,Race-Ethnicity,African-American,2100,142.0
 2019,Butte,18 and Over,Race-Ethnicity,African-American,73,252.9
-2019,California,18 and Over,Race-Ethnicity,African-American,23444,133.5
 2019,Contra Costa,18 and Over,Race-Ethnicity,African-American,1320,157.3
 2019,El Dorado,18 and Over,Race-Ethnicity,African-American,18,116.8
 2019,Fresno,18 and Over,Race-Ethnicity,African-American,516,140.8
@@ -8522,7 +8326,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Alameda,18 and Over,Race-Ethnicity,Hispanic,1015,36.6
 2019,Butte,18 and Over,Race-Ethnicity,Hispanic,74,22.5
 2019,Calaveras,18 and Over,Race-Ethnicity,Hispanic,11,
-2019,California,18 and Over,Race-Ethnicity,Hispanic,38774,34.0
 2019,Colusa,18 and Over,Race-Ethnicity,Hispanic,31,31.7
 2019,Contra Costa,18 and Over,Race-Ethnicity,Hispanic,1034,47.0
 2019,Del Norte,18 and Over,Race-Ethnicity,Hispanic,14,71.3
@@ -8570,7 +8373,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Yolo,18 and Over,Race-Ethnicity,Hispanic,166,30.8
 2019,Yuba,18 and Over,Race-Ethnicity,Hispanic,50,35.9
 2019,Alameda,18 and Over,Race-Ethnicity,Multiracial,88,20.3
-2019,California,18 and Over,Race-Ethnicity,Multiracial,1017,15.1
 2019,Contra Costa,18 and Over,Race-Ethnicity,Multiracial,49,19.0
 2019,Lake,18 and Over,Race-Ethnicity,Multiracial,11,
 2019,Los Angeles,18 and Over,Race-Ethnicity,Multiracial,247,18.2
@@ -8589,7 +8391,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,18 and Over,Race-Ethnicity,White,116,54.1
 2019,Butte,18 and Over,Race-Ethnicity,White,371,32.8
 2019,Calaveras,18 and Over,Race-Ethnicity,White,115,51.1
-2019,California,18 and Over,Race-Ethnicity,White,31474,27.7
 2019,Colusa,18 and Over,Race-Ethnicity,White,24,51.1
 2019,Contra Costa,18 and Over,Race-Ethnicity,White,1092,27.8
 2019,Del Norte,18 and Over,Race-Ethnicity,White,55,56.3
@@ -8646,7 +8447,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,18 and Over,Sex,Female,83,68.1
 2019,Butte,18 and Over,Sex,Female,357,43.8
 2019,Calaveras,18 and Over,Sex,Female,76,54.1
-2019,California,18 and Over,Sex,Female,64712,42.7
 2019,Colusa,18 and Over,Sex,Female,41,50.0
 2019,Contra Costa,18 and Over,Sex,Female,2383,53.0
 2019,Del Norte,18 and Over,Sex,Female,52,69.5
@@ -8703,7 +8503,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,18 and Over,Sex,Male,43,28.0
 2019,Butte,18 and Over,Sex,Male,200,22.9
 2019,Calaveras,18 and Over,Sex,Male,59,39.5
-2019,California,18 and Over,Sex,Male,42263,28.0
 2019,Colusa,18 and Over,Sex,Male,20,24.2
 2019,Contra Costa,18 and Over,Sex,Male,1567,37.0
 2019,Del Norte,18 and Over,Sex,Male,31,28.6
@@ -8760,7 +8559,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,All Ages,Total Population,All Ages,169,53.2
 2019,Butte,All Ages,Total Population,All Ages,753,35.5
 2019,Calaveras,All Ages,Total Population,All Ages,199,58.4
-2019,California,All Ages,Total Population,All Ages,165449,42.6
 2019,Colusa,All Ages,Total Population,All Ages,103,45.4
 2019,Contra Costa,All Ages,Total Population,All Ages,5910,54.2
 2019,Del Norte,All Ages,Total Population,All Ages,117,48.9
@@ -8815,7 +8613,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Yolo,All Ages,Total Population,All Ages,743,34.5
 2019,Yuba,All Ages,Total Population,All Ages,328,42.3
 2019,Alameda,All Ages,Race-Ethnicity,American Indian/Alaskan Native,27,50.5
-2019,California,All Ages,Race-Ethnicity,American Indian/Alaskan Native,539,33.0
 2019,Fresno,All Ages,Race-Ethnicity,American Indian/Alaskan Native,13,20.4
 2019,Humboldt,All Ages,Race-Ethnicity,American Indian/Alaskan Native,37,50.3
 2019,Inyo,All Ages,Race-Ethnicity,American Indian/Alaskan Native,17,107.8
@@ -8830,7 +8627,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Siskiyou,All Ages,Race-Ethnicity,American Indian/Alaskan Native,13,98.2
 2019,Alameda,All Ages,Race-Ethnicity,Asian/Pacific Islander,1055,23.1
 2019,Butte,All Ages,Race-Ethnicity,Asian/Pacific Islander,14,14.3
-2019,California,All Ages,Race-Ethnicity,Asian/Pacific Islander,10346,19.4
 2019,Contra Costa,All Ages,Race-Ethnicity,Asian/Pacific Islander,483,28.2
 2019,El Dorado,All Ages,Race-Ethnicity,Asian/Pacific Islander,15,24.0
 2019,Fresno,All Ages,Race-Ethnicity,Asian/Pacific Islander,226,23.9
@@ -8862,7 +8658,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Yolo,All Ages,Race-Ethnicity,Asian/Pacific Islander,38,45.5
 2019,Alameda,All Ages,Race-Ethnicity,African-American,2779,156.8
 2019,Butte,All Ages,Race-Ethnicity,African-American,83,227.1
-2019,California,All Ages,Race-Ethnicity,African-American,33458,153.2
 2019,Contra Costa,All Ages,Race-Ethnicity,African-American,1839,180.5
 2019,El Dorado,All Ages,Race-Ethnicity,African-American,19,101.1
 2019,Fresno,All Ages,Race-Ethnicity,African-American,982,195.1
@@ -8905,7 +8700,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,All Ages,Race-Ethnicity,Hispanic,20,42.3
 2019,Butte,All Ages,Race-Ethnicity,Hispanic,107,24.4
 2019,Calaveras,All Ages,Race-Ethnicity,Hispanic,22,37.6
-2019,California,All Ages,Race-Ethnicity,Hispanic,70432,42.3
 2019,Colusa,All Ages,Race-Ethnicity,Hispanic,67,44.2
 2019,Contra Costa,All Ages,Race-Ethnicity,Hispanic,1823,58.1
 2019,Del Norte,All Ages,Race-Ethnicity,Hispanic,20,63.4
@@ -8955,7 +8749,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Yolo,All Ages,Race-Ethnicity,Hispanic,277,35.1
 2019,Yuba,All Ages,Race-Ethnicity,Hispanic,78,35.6
 2019,Alameda,All Ages,Race-Ethnicity,Multiracial,164,23.0
-2019,California,All Ages,Race-Ethnicity,Multiracial,1993,17.2
 2019,Contra Costa,All Ages,Race-Ethnicity,Multiracial,121,24.4
 2019,Fresno,All Ages,Race-Ethnicity,Multiracial,129,45.4
 2019,Lake,All Ages,Race-Ethnicity,Multiracial,14,88.0
@@ -8981,7 +8774,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,All Ages,Race-Ethnicity,White,141,56.9
 2019,Butte,All Ages,Race-Ethnicity,White,502,36.4
 2019,Calaveras,All Ages,Race-Ethnicity,White,155,58.0
-2019,California,All Ages,Race-Ethnicity,White,40733,30.1
 2019,Colusa,All Ages,Race-Ethnicity,White,28,46.3
 2019,Contra Costa,All Ages,Race-Ethnicity,White,1371,29.1
 2019,Del Norte,All Ages,Race-Ethnicity,White,74,57.9
@@ -9038,7 +8830,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,All Ages,Sex,Female,97,63.7
 2019,Butte,All Ages,Sex,Female,429,40.7
 2019,Calaveras,All Ages,Sex,Female,96,55.6
-2019,California,All Ages,Sex,Female,86264,44.0
 2019,Colusa,All Ages,Sex,Female,51,46.3
 2019,Contra Costa,All Ages,Sex,Female,3138,55.4
 2019,Del Norte,All Ages,Sex,Female,68,66.2
@@ -9095,7 +8886,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,All Ages,Sex,Male,72,47.8
 2019,Butte,All Ages,Sex,Male,324,30.7
 2019,Calaveras,All Ages,Sex,Male,103,61.1
-2019,California,All Ages,Sex,Male,79178,40.9
 2019,Colusa,All Ages,Sex,Male,52,44.9
 2019,Contra Costa,All Ages,Sex,Male,2772,52.3
 2019,Del Norte,All Ages,Sex,Male,49,36.5
@@ -9152,7 +8942,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,Under 18,Total Population,Under 18,43,78.7
 2019,Butte,Under 18,Total Population,Under 18,196,42.8
 2019,Calaveras,Under 18,Total Population,Under 18,64,92.4
-2019,California,Under 18,Total Population,Under 18,58467,63.4
 2019,Colusa,Under 18,Total Population,Under 18,42,70.8
 2019,Contra Costa,Under 18,Total Population,Under 18,1960,79.7
 2019,Del Norte,Under 18,Total Population,Under 18,34,58.7
@@ -9205,11 +8994,9 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Ventura,Under 18,Total Population,Under 18,908,47.0
 2019,Yolo,Under 18,Total Population,Under 18,224,43.7
 2019,Yuba,Under 18,Total Population,Under 18,95,44.1
-2019,California,Under 18,Race-Ethnicity,American Indian/Alaskan Native,115,34.4
 2019,Los Angeles,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,
 2019,Mendocino,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,164.2
 2019,Alameda,Under 18,Race-Ethnicity,Asian/Pacific Islander,336,37.4
-2019,California,Under 18,Race-Ethnicity,Asian/Pacific Islander,3138,30.7
 2019,Contra Costa,Under 18,Race-Ethnicity,Asian/Pacific Islander,178,53.1
 2019,Fresno,Under 18,Race-Ethnicity,Asian/Pacific Islander,117,48.4
 2019,Kern,Under 18,Race-Ethnicity,Asian/Pacific Islander,20,25.8
@@ -9229,7 +9016,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Stanislaus,Under 18,Race-Ethnicity,Asian/Pacific Islander,19,28.4
 2019,Ventura,Under 20,Race-Ethnicity,Asian/Pacific Islander,15,14.9
 2019,Alameda,Under 18,Race-Ethnicity,African-American,679,199.3
-2019,California,Under 18,Race-Ethnicity,African-American,10014,210.0
 2019,Contra Costa,Under 18,Race-Ethnicity,African-American,519,247.3
 2019,Fresno,Under 18,Race-Ethnicity,African-American,466,351.5
 2019,Kern,Under 18,Race-Ethnicity,African-American,354,262.3
@@ -9263,7 +9049,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,Under 18,Race-Ethnicity,Hispanic,15,125.7
 2019,Butte,Under 18,Race-Ethnicity,Hispanic,33,29.6
 2019,Calaveras,Under 18,Race-Ethnicity,Hispanic,11,
-2019,California,Under 18,Race-Ethnicity,Hispanic,31658,66.2
 2019,Colusa,Under 18,Race-Ethnicity,Hispanic,36,80.3
 2019,Contra Costa,Under 18,Race-Ethnicity,Hispanic,789,90.1
 2019,El Dorado,Under 18,Race-Ethnicity,Hispanic,37,47.5
@@ -9309,7 +9094,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Yolo,Under 18,Race-Ethnicity,Hispanic,111,47.2
 2019,Yuba,Under 18,Race-Ethnicity,Hispanic,28,34.7
 2019,Alameda,Under 18,Race-Ethnicity,Multiracial,76,31.0
-2019,California,Under 18,Race-Ethnicity,Multiracial,976,23.1
 2019,Contra Costa,Under 18,Race-Ethnicity,Multiracial,72,39.8
 2019,Fresno,Under 18,Race-Ethnicity,Multiracial,120,157.0
 2019,Los Angeles,Under 18,Race-Ethnicity,Multiracial,102,13.3
@@ -9332,7 +9116,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,Under 18,Race-Ethnicity,White,25,64.9
 2019,Butte,Under 18,Race-Ethnicity,White,131,46.8
 2019,Calaveras,Under 18,Race-Ethnicity,White,40,77.8
-2019,California,Under 18,Race-Ethnicity,White,9259,37.2
 2019,Contra Costa,Under 18,Race-Ethnicity,White,279,33.0
 2019,Del Norte,Under 18,Race-Ethnicity,White,19,62.7
 2019,El Dorado,Under 18,Race-Ethnicity,White,82,37.6
@@ -9384,7 +9167,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,Under 18,Sex,Female,14,51.0
 2019,Butte,Under 18,Sex,Female,72,31.9
 2019,Calaveras,Under 18,Sex,Female,20,60.0
-2019,California,Under 18,Sex,Female,21552,47.9
 2019,Contra Costa,Under 18,Sex,Female,755,62.4
 2019,Del Norte,Under 18,Sex,Female,16,56.6
 2019,El Dorado,Under 18,Sex,Female,47,29.7
@@ -9433,7 +9215,6 @@ Year,Geography,Age,Category,Demographic,Count,Rate
 2019,Amador,Under 18,Sex,Male,29,104.7
 2019,Butte,Under 18,Sex,Male,124,53.2
 2019,Calaveras,Under 18,Sex,Male,44,123.3
-2019,California,Under 18,Sex,Male,36915,78.0
 2019,Colusa,Under 18,Sex,Male,32,104.4
 2019,Contra Costa,Under 18,Sex,Male,1205,96.3
 2019,Del Norte,Under 18,Sex,Male,18,59.5
